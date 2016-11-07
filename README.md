@@ -514,7 +514,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;f) lemondásával;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) a köztársasági elnöki tisztségtől való megfosztással.  
 (4) A köztársasági elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának és a megválasztásához szükséges feltételek hiányának megállapításáról, valamint az összeférhetetlenség kimondásáról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával határoz.  
-(5) A köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.  
+(5) A köztársasági elnök és a volt köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.  
 
 > *13. cikk*  
 
@@ -946,6 +946,7 @@ A pénzügyi közvetítőrendszer felügyeletét ellátó szervre vonatkozó sza
 2. Ezt az Alaptörvényt az Országgyűlés az 1949. évi XX. törvény 19. § (3) bekezdés a) pontja és 24. § (3) bekezdése alapján fogadja el.  
 3. Az ezen Alaptörvényhez kapcsolódó átmeneti rendelkezéseket az Országgyűlés a 2. pont szerinti eljárásban, külön fogadja el.  
 4. A Kormány köteles az Alaptörvény végrehajtásához szükséges törvényjavaslatokat az Országgyűlés elé terjeszteni.  
+5. A 3. pont szerint elfogadott Magyarország Alaptörvényének átmeneti rendelkezései (2011. december 31.) az Alaptörvény részét képezi.  
 
 
 
