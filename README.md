@@ -959,3 +959,4 @@ Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten �
 
 Dr. Schmitt Pál s. k.,&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Kövér László s. k.,
 köztársasági elnök&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;az Országgyűlés elnöke
+  
