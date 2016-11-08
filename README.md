@@ -25,6 +25,7 @@ Valljuk, hogy a polgárnak és az államnak közös célja a jó élet, a bizton
 Valljuk, hogy népuralom csak ott van, ahol az állam szolgálja polgárait, ügyeiket méltányosan, visszaélés és részrehajlás nélkül intézi.  
 
 Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.  
+Valljuk, hogy a történeti alkotmányban gyökerező alkotmányos önazonosságunk védelmezése az állam alapvető kötelessége.  
 Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és a kommunista diktatúra uralma alatt elkövetett embertelen bűnök elévülését.  
 Nem ismerjük el az 1949. évi kommunista alkotmányt, mert egy zsarnoki uralom alapja volt, ezért kinyilvánítjuk érvénytelenségét.  
 Egyetértünk az első szabad Országgyűlés képviselőivel, akik első határozatukban kimondták, hogy mai szabadságunk az 1956-os forradalmunkból sarjadt ki.  
@@ -62,7 +63,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 > *E) cikk*  
 
 (1) Magyarország az európai népek szabadságának, jólétének és biztonságának kiteljesedése érdekében közreműködik az európai egység megteremtésében.  
-(2) Magyarország az Európai Unióban tagállamként való részvétele érdekében nemzetközi szerződés alapján – az alapító szerződésekből fakadó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges mértékig – az Alaptörvényből eredő egyes hatásköreit a többi tagállammal közösen, az Európai Unió intézményei útján gyakorolhatja.  
+(2) Magyarország az Európai Unióban tagállamként való részvétele érdekében nemzetközi szerződés alapján - az alapító szerződésekből fakadó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges mértékig - az Alaptörvényből eredő egyes hatásköreit a többi tagállammal közösen, az Európai Unió intézményei útján gyakorolhatja. Az e bekezdés szerinti hatáskörgyakorlás összhangban kell álljon az Alaptörvényben foglalt alapvető jogokkal és szabadságokkal, továbbá nem korlátozhatja Magyarország területi egységére, népességére, államformájára és állami berendezkedésére vonatkozó elidegeníthetetlen rendelkezési jogát.
 (3) Az Európai Unió joga – a (2) bekezdés keretei között – megállapíthat általánosan kötelező magatartási szabályt.  
 (4) A (2) bekezdés szerinti nemzetközi szerződés kötelező hatályának elismerésére adott felhatalmazáshoz az országgyűlési képviselők kétharmadának szavazata szükséges.  
 
@@ -144,6 +145,7 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 (1) Az Alaptörvény Magyarország jogrendszerének alapja.  
 (2) Az Alaptörvény és a jogszabályok mindenkire kötelezőek.  
 (3) Az Alaptörvény rendelkezéseit azok céljával, a benne foglalt Nemzeti hitvallással és történeti alkotmányunk vívmányaival összhangban kell értelmezni.  
+(4) Magyarország alkotmányos identitásának védelme az állam minden szervének kötelessége.  
 
 > *S) cikk*  
 
@@ -268,9 +270,10 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 > *XIV. cikk*  
 
-(1) Magyar állampolgár Magyarország területéről nem utasítható ki, és külföldről bármikor hazatérhet. Magyarország területén tartózkodó külföldit csak törvényes határozat alapján lehet kiutasítani. Tilos a csoportos kiutasítás.  
-(2) Senki nem utasítható ki olyan államba, vagy nem adható ki olyan államnak, ahol az a veszély fenyegeti, hogy halálra ítélik, kínozzák vagy más embertelen bánásmódnak, büntetésnek vetik alá.  
-(3) Magyarország – ha sem származási országuk, sem más ország nem nyújt védelmet – kérelemre menedékjogot biztosít azoknak a nem magyar állampolgároknak, akiket hazájukban vagy a szokásos tartózkodási helyük szerinti országban faji, nemzeti hovatartozásuk, meghatározott társadalmi csoporthoz tartozásuk, vallási, illetve politikai meggyőződésük miatt üldöznek, vagy az üldöztetéstől való félelmük megalapozott.  
+(1) Magyarországra idegen népesség nem telepíthet ő be. Idegen állampolgár - ide nem értve az Európai Gazdasági Térség országainak állampolgárait - Magyarország területén az Országgy űlés által megalkotott törvény szerinti eljárásban, a magyar hatóságok által egyedileg elbírált kérelme alapján élhet.  
+(2) Magyar állampolgár Magyarország területéről nem utasítható ki, és külföldről bármikor hazatérhet. Magyarország területén tartózkodó külföldit csak törvényes határozat alapján lehet kiutasítani. Tilos a csoportos kiutasítás.  
+(3) Senki nem utasítható ki olyan államba, vagy nem adható ki olyan államnak, ahol az a veszély fenyegeti, hogy halálra ítélik, kínozzák vagy más embertelen bánásmódnak, büntetésnek vetik alá.  
+(4) Magyarország - ha sem származási országuk, sem más ország nem nyújt védelmet - kérelemre menedékjogot biztosít azoknak a nem magyar állampolgároknak, akiket hazájukban vagy a szokásos tartózkodási helyük szerinti országban faji, nemzeti hovatartozásuk, meghatározott társadalmi csoporthoz tartozásuk, vallási, illetve politikai meggyőződésük miatt üldöznek, vagy az üldöztetéstől való félelmük megalapozott.  
 
 > *XV. cikk*  
 
