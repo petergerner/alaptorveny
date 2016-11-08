@@ -45,7 +45,7 @@ HAZÁNK neve Magyarország.
 > *B) cikk*  
 
 (1) Magyarország független, demokratikus jogállam.  
-(2) Magyarország államformája köztársaság.  
+(2) Magyarország államformája monarchia.  
 (3) A közhatalom forrása a nép.  
 (4) A nép a hatalmát választott képviselői útján, kivételesen közvetlenül gyakorolja.  
 
@@ -147,15 +147,15 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 
 > *S) cikk*  
 
-(1) Alaptörvény elfogadására vagy az Alaptörvény módosítására irányuló javaslatot a köztársasági elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő terjeszthet elő.  
+(1) Alaptörvény elfogadására vagy az Alaptörvény módosítására irányuló javaslatot a monarchiai elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő terjeszthet elő.  
 (2) Alaptörvény elfogadásához vagy az Alaptörvény módosításához az országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) Az elfogadott Alaptörvényt vagy az Alaptörvény elfogadott módosítását az Országgyűlés elnöke öt napon belül aláírja, és megküldi a köztársasági elnöknek. A köztársasági elnök a megküldött Alaptörvényt vagy az Alaptörvény megküldött módosítását a kézhezvételétől számított öt napon belül aláírja, és elrendeli a hivatalos lapban való kihirdetését. Ha a köztársasági elnök úgy ítéli meg, hogy az Alaptörvénynek vagy az Alaptörvény módosításának a megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelményeket nem tartották meg, ennek vizsgálatát kéri az Alkotmánybíróságtól. Ha az Alkotmánybíróság a vizsgálata során nem állapítja meg e követelmények megsértését, a köztársasági elnök az Alaptörvényt vagy az Alaptörvény módosítását haladéktalanul aláírja, és elrendeli annak a hivatalos lapban való kihirdetését.  
+(3) Az elfogadott Alaptörvényt vagy az Alaptörvény elfogadott módosítását az Országgyűlés elnöke öt napon belül aláírja, és megküldi a monarchiai elnöknek. A monarchiai elnök a megküldött Alaptörvényt vagy az Alaptörvény megküldött módosítását a kézhezvételétől számított öt napon belül aláírja, és elrendeli a hivatalos lapban való kihirdetését. Ha a monarchiai elnök úgy ítéli meg, hogy az Alaptörvénynek vagy az Alaptörvény módosításának a megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelményeket nem tartották meg, ennek vizsgálatát kéri az Alkotmánybíróságtól. Ha az Alkotmánybíróság a vizsgálata során nem állapítja meg e követelmények megsértését, a monarchiai elnök az Alaptörvényt vagy az Alaptörvény módosítását haladéktalanul aláírja, és elrendeli annak a hivatalos lapban való kihirdetését.  
 (4) Az Alaptörvény módosításának kihirdetés során történő megjelölése a címet, a módosítás sorszámát és a kihirdetés napját foglalja magában.  
 
 > *T) cikk*  
 
 (1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet és a különleges jogrendben alkotott jogszabályok kihirdetésének szabályait.  
-(2) Jogszabály a törvény, a kormányrendelet, a miniszterelnöki rendelet, a miniszteri rendelet, a Magyar Nemzeti Bank elnökének rendelete, az önálló szabályozó szerv vezetőjének rendelete és az önkormányzati rendelet. Jogszabály továbbá a Honvédelmi Tanács rendkívüli állapot idején és a köztársasági elnök szükségállapot idején kiadott rendelete.  
+(2) Jogszabály a törvény, a kormányrendelet, a miniszterelnöki rendelet, a miniszteri rendelet, a Magyar Nemzeti Bank elnökének rendelete, az önálló szabályozó szerv vezetőjének rendelete és az önkormányzati rendelet. Jogszabály továbbá a Honvédelmi Tanács rendkívüli állapot idején és a monarchiai elnök szükségállapot idején kiadott rendelete.  
 (3) Jogszabály nem lehet ellentétes az Alaptörvénnyel.  
 (4) A sarkalatos törvény olyan törvény, amelynek elfogadásához és módosításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
 
@@ -395,7 +395,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;b) törvényeket alkot;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) elfogadja a központi költségvetést, és jóváhagyja annak végrehajtását;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) felhatalmazást ad a feladat- és hatáskörébe tartozó nemzetközi szerződés kötelező hatályának elismerésére;  
-&nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
+&nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a monarchiai elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) feloszlatja az alaptörvény-ellenesen működő képviselő-testületet;  
 &nbsp;&nbsp;&nbsp;&nbsp;h) határoz a hadiállapot kinyilvánításáról és a békekötésről;  
@@ -411,13 +411,13 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 > *3. cikk*  
 
-(1) Az Országgyűlés megbízatása az alakuló ülésével kezdődik, és a következő Országgyűlés alakuló üléséig tart. Az alakuló ülést – a választást követő harminc napon belüli időpontra – a köztársasági elnök hívja össze.  
+(1) Az Országgyűlés megbízatása az alakuló ülésével kezdődik, és a következő Országgyűlés alakuló üléséig tart. Az alakuló ülést – a választást követő harminc napon belüli időpontra – a monarchiai elnök hívja össze.  
 (2) Az Országgyűlés kimondhatja feloszlását.  
-(3) A köztársasági elnök a választások egyidejű kitűzésével feloszlathatja az Országgyűlést, ha  
-&nbsp;&nbsp;&nbsp;&nbsp;a) a Kormány megbízatásának megszűnése esetén a köztársasági elnök által miniszterelnöknek javasolt személyt az Országgyűlés az első személyi javaslat megtételének napjától számított negyven napon belül nem választja meg, vagy  
+(3) A monarchiai elnök a választások egyidejű kitűzésével feloszlathatja az Országgyűlést, ha  
+&nbsp;&nbsp;&nbsp;&nbsp;a) a Kormány megbízatásának megszűnése esetén a monarchiai elnök által miniszterelnöknek javasolt személyt az Országgyűlés az első személyi javaslat megtételének napjától számított negyven napon belül nem választja meg, vagy  
 &nbsp;&nbsp;&nbsp;&nbsp;b) az Országgyűlés az adott évre vonatkozó központi költségvetést március 31-ig nem fogadja el.  
-(4) Az Országgyűlés feloszlatása előtt a köztársasági elnök köteles kikérni a miniszterelnöknek, az Országgyűlés elnökének és az országgyűlési képviselőcsoportok vezetőinek véleményét.  
-(5) A köztársasági elnök a (3) bekezdés a) pontja szerinti jogát addig gyakorolhatja, amíg az Országgyűlés meg nem választja a miniszterelnököt. A köztársasági elnök a (3) bekezdés b) pontja szerinti jogát addig gyakorolhatja, amíg az Országgyűlés a központi költségvetést nem fogadja el.  
+(4) Az Országgyűlés feloszlatása előtt a monarchiai elnök köteles kikérni a miniszterelnöknek, az Országgyűlés elnökének és az országgyűlési képviselőcsoportok vezetőinek véleményét.  
+(5) A monarchiai elnök a (3) bekezdés a) pontja szerinti jogát addig gyakorolhatja, amíg az Országgyűlés meg nem választja a miniszterelnököt. A monarchiai elnök a (3) bekezdés b) pontja szerinti jogát addig gyakorolhatja, amíg az Országgyűlés a központi költségvetést nem fogadja el.  
 (6) Az Országgyűlés feloszlásától vagy feloszlatásától számított kilencven napon belül új Országgyűlést kell választani.  
 
 > *4. cikk*  
@@ -448,15 +448,15 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 > *6. cikk*  
 
-(1) Törvényt a köztársasági elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő kezdeményezhet.  
+(1) Törvényt a monarchiai elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő kezdeményezhet.  
 (2) Az Országgyűlés – a törvény kezdeményezője, a Kormány, illetve az Országgyűlés elnöke zárószavazás előtt megtett indítványára – az elfogadott törvényt az Alaptörvénnyel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak. Az Országgyűlés az indítványról a zárószavazást követően határoz. Az indítvány elfogadása esetén az Országgyűlés elnöke az elfogadott törvényt az Alaptörvénnyel való összhangjának vizsgálatára haladéktalanul megküldi az Alkotmánybíróságnak.  
-(3) Az elfogadott törvényt az Országgyűlés elnöke öt napon belül aláírja, és megküldi a köztársasági elnöknek. A köztársasági elnök a megküldött törvényt öt napon belül aláírja, és elrendeli annak kihirdetését. Ha az Országgyűlés a (2) bekezdés szerint a törvényt az Alaptörvénnyel való összhangja vizsgálatára megküldte az Alkotmánybíróságnak, az Országgyűlés elnöke csak akkor írhatja azt alá, és küldheti meg a köztársasági elnöknek, ha az Alkotmánybíróság nem állapított meg alaptörvény-ellenességet.  
-(4) Ha a köztársasági elnök a törvényt vagy annak valamely rendelkezését az Alaptörvénnyel ellentétesnek tartja – és a (2) bekezdés szerinti vizsgálatra nem került sor –, a törvényt az Alaptörvénnyel való összhangjának vizsgálatára az Alkotmánybíróságnak megküldi.  
-(5) Ha a köztársasági elnök a törvénnyel vagy annak valamely rendelkezésével nem ért egyet, és a (4) bekezdés szerinti jogával nem élt, a törvényt az aláírás előtt észrevételeinek közlésével egy alkalommal megfontolásra visszaküldheti az Országgyűlésnek. Az Országgyűlés a törvényt újra megtárgyalja, és elfogadásáról ismét határoz. A köztársasági elnök e jogával akkor is élhet, ha az Országgyűlés határozata alapján lefolytatott vizsgálat során az Alkotmánybíróság nem állapított meg alaptörvény-ellenességet.  
+(3) Az elfogadott törvényt az Országgyűlés elnöke öt napon belül aláírja, és megküldi a monarchiai elnöknek. A monarchiai elnök a megküldött törvényt öt napon belül aláírja, és elrendeli annak kihirdetését. Ha az Országgyűlés a (2) bekezdés szerint a törvényt az Alaptörvénnyel való összhangja vizsgálatára megküldte az Alkotmánybíróságnak, az Országgyűlés elnöke csak akkor írhatja azt alá, és küldheti meg a monarchiai elnöknek, ha az Alkotmánybíróság nem állapított meg alaptörvény-ellenességet.  
+(4) Ha a monarchiai elnök a törvényt vagy annak valamely rendelkezését az Alaptörvénnyel ellentétesnek tartja – és a (2) bekezdés szerinti vizsgálatra nem került sor –, a törvényt az Alaptörvénnyel való összhangjának vizsgálatára az Alkotmánybíróságnak megküldi.  
+(5) Ha a monarchiai elnök a törvénnyel vagy annak valamely rendelkezésével nem ért egyet, és a (4) bekezdés szerinti jogával nem élt, a törvényt az aláírás előtt észrevételeinek közlésével egy alkalommal megfontolásra visszaküldheti az Országgyűlésnek. Az Országgyűlés a törvényt újra megtárgyalja, és elfogadásáról ismét határoz. A monarchiai elnök e jogával akkor is élhet, ha az Országgyűlés határozata alapján lefolytatott vizsgálat során az Alkotmánybíróság nem állapított meg alaptörvény-ellenességet.  
 (6) Az Alkotmánybíróság a (2) és a (4) bekezdés szerinti indítványról soron kívül, de legkésőbb harminc napon belül határoz. Ha az Alkotmánybíróság alaptörvény-ellenességet állapít meg, az Országgyűlés a törvényt az alaptörvény-ellenesség megszüntetése érdekében újratárgyalja.  
-(7) Ha az Alkotmánybíróság a köztársasági elnök kezdeményezésére lefolytatott vizsgálat során nem állapít meg alaptörvény-ellenességet, a köztársasági elnök a törvényt haladéktalanul aláírja, és elrendeli annak kihirdetését.  
+(7) Ha az Alkotmánybíróság a monarchiai elnök kezdeményezésére lefolytatott vizsgálat során nem állapít meg alaptörvény-ellenességet, a monarchiai elnök a törvényt haladéktalanul aláírja, és elrendeli annak kihirdetését.  
 (8) Az Országgyűlés által a (6) bekezdés szerint megtárgyalt és elfogadott törvény Alaptörvénnyel való összhangjának vizsgálata a (2) és a (4) bekezdés szerint ismételten kérhető az Alkotmánybíróságtól. Az Alkotmánybíróság az ismételt indítványról soron kívül, de legkésőbb tíz napon belül határoz.  
-(9) Ha a köztársasági elnök egyet nem értése folytán visszaküldött törvényt az Országgyűlés módosítja, az Alaptörvénnyel való összhang vizsgálata a (2), illetve (4) bekezdés szerint kizárólag a módosított rendelkezések tekintetében vagy arra hivatkozással kérhető, hogy a törvény megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesültek. Ha a köztársasági elnök egyet nem értése folytán visszaküldött törvényt az Országgyűlés változatlan szöveggel fogadja el, a köztársasági elnök a törvény megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesülésére tekintettel kérheti az Alaptörvénnyel való összhang vizsgálatát.  
+(9) Ha a monarchiai elnök egyet nem értése folytán visszaküldött törvényt az Országgyűlés módosítja, az Alaptörvénnyel való összhang vizsgálata a (2), illetve (4) bekezdés szerint kizárólag a módosított rendelkezések tekintetében vagy arra hivatkozással kérhető, hogy a törvény megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesültek. Ha a monarchiai elnök egyet nem értése folytán visszaküldött törvényt az Országgyűlés változatlan szöveggel fogadja el, a monarchiai elnök a törvény megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesülésére tekintettel kérheti az Alaptörvénnyel való összhang vizsgálatát.  
 
 > *7. cikk*  
 
@@ -469,7 +469,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 > *8. cikk*  
 
-(1) Legalább kétszázezer választópolgár kezdeményezésére az Országgyűlés országos népszavazást rendel el. A köztársasági elnök, a Kormány vagy százezer választópolgár kezdeményezésére az Országgyűlés országos népszavazást rendelhet el. Az érvényes és eredményes népszavazáson hozott döntés az Országgyűlésre kötelező.  
+(1) Legalább kétszázezer választópolgár kezdeményezésére az Országgyűlés országos népszavazást rendel el. A monarchiai elnök, a Kormány vagy százezer választópolgár kezdeményezésére az Országgyűlés országos népszavazást rendelhet el. Az érvényes és eredményes népszavazáson hozott döntés az Országgyűlésre kötelező.  
 (2) Országos népszavazás tárgya az Országgyűlés feladat- és hatáskörébe tartozó kérdés lehet.  
 (3) Nem lehet országos népszavazást tartani  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az Alaptörvény módosítására irányuló kérdésről;  
@@ -485,13 +485,13 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 (4) Az országos népszavazás érvényes, ha az összes választópolgár több mint fele érvényesen szavazott, és eredményes, ha az érvényesen szavazó választópolgárok több mint fele a megfogalmazott kérdésre azonos választ adott.  
 
 
-**A köztársasági elnök**  
+**A monarchiai elnök**  
 
 > *9. cikk*  
 
-(1) Magyarország államfője a köztársasági elnök, aki kifejezi a nemzet egységét, és őrködik az államszervezet demokratikus működése felett.  
-(2) A köztársasági elnök a Magyar Honvédség főparancsnoka.  
-(3) A köztársasági elnök  
+(1) Magyarország államfője a monarchiai elnök, aki kifejezi a nemzet egységét, és őrködik az államszervezet demokratikus működése felett.  
+(2) A monarchiai elnök a Magyar Honvédség főparancsnoka.  
+(3) A monarchiai elnök  
 &nbsp;&nbsp;&nbsp;&nbsp;a) képviseli Magyarországot;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) részt vehet és felszólalhat az Országgyűlés ülésein;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) törvényt kezdeményezhet;  
@@ -505,7 +505,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;k) kinevezi a hivatásos bírákat és a Költségvetési Tanács elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;l) megerősíti tisztségében a Magyar Tudományos Akadémia elnökét és a Magyar Művészeti Akadémia elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;m) kialakítja hivatala szervezetét.  
-(4) A köztársasági elnök  
+(4) A monarchiai elnök  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az Országgyűlés felhatalmazása alapján elismeri a nemzetközi szerződés kötelező hatályát;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) megbízza és fogadja a nagyköveteket és a követeket;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) kinevezi a minisztereket, a Magyar Nemzeti Bank elnökét, alelnökeit, az önálló szabályozó szerv vezetőjét és az egyetemi tanárokat;  
@@ -516,54 +516,54 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;  
 &nbsp;&nbsp;&nbsp;&nbsp;i) dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;  
 &nbsp;&nbsp;&nbsp;&nbsp;j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.  
-(5) A köztársasági elnöknek a (4) bekezdésben meghatározott minden intézkedéséhez és döntéséhez a Kormány tagjának ellenjegyzése szükséges. Törvény rendelkezhet úgy, hogy a törvény által a köztársasági elnök hatáskörébe utalt döntéshez ellenjegyzés nem szükséges.  
-(6) A köztársasági elnök a (4) bekezdés b)–e) pontjában foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.  
-(7) A köztársasági elnök a (4) bekezdés f) pontjában foglaltak teljesítését megtagadja, ha az az Alaptörvény értékrendjét sértené.  
+(5) A monarchiai elnöknek a (4) bekezdésben meghatározott minden intézkedéséhez és döntéséhez a Kormány tagjának ellenjegyzése szükséges. Törvény rendelkezhet úgy, hogy a törvény által a monarchiai elnök hatáskörébe utalt döntéshez ellenjegyzés nem szükséges.  
+(6) A monarchiai elnök a (4) bekezdés b)–e) pontjában foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.  
+(7) A monarchiai elnök a (4) bekezdés f) pontjában foglaltak teljesítését megtagadja, ha az az Alaptörvény értékrendjét sértené.  
 
 > *10. cikk*  
 
-(1) A köztársasági elnököt az Országgyűlés öt évre választja.  
-(2) Köztársasági elnökké megválasztható bármely magyar állampolgár, aki a harmincötödik életévét betöltötte.  
-(3) A köztársasági elnököt e tisztségre legfeljebb egy alkalommal lehet újraválasztani.  
+(1) A monarchiai elnököt az Országgyűlés öt évre választja.  
+(2) Monarchiai elnökké megválasztható bármely magyar állampolgár, aki a harmincötödik életévét betöltötte.  
+(3) A monarchiai elnököt e tisztségre legfeljebb egy alkalommal lehet újraválasztani.  
 
 > *11. cikk*  
 
-(1) A köztársasági elnököt a korábbi köztársasági elnök megbízatásának lejárta előtt legalább harminc, legfeljebb hatvan nappal, ha pedig a megbízatás idő előtt szűnt meg, a megszűnéstől számított harminc napon belül kell megválasztani. A köztársasági elnök választását az Országgyűlés elnöke tűzi ki. Az Országgyűlés a köztársasági elnököt titkos szavazással választja.  
-(2) A köztársasági elnök választását jelölés előzi meg. A jelölés érvényességéhez az országgyűlési képviselők legalább egyötödének írásbeli ajánlása szükséges. A jelölést az Országgyűlés elnökéhez a szavazás elrendelése előtt kell benyújtani. Minden országgyűlési képviselő egy jelöltet ajánlhat. Annak, aki több jelöltet ajánl, mindegyik ajánlása érvénytelen.  
-(3) Az első szavazás alapján megválasztott köztársasági elnök az, aki az országgyűlési képviselők kétharmadának szavazatát megkapta.  
-(4) Ha az első szavazás eredménytelen volt, második szavazást kell tartani. A második szavazás során a két legtöbb szavazatot kapott jelöltre lehet szavazni. Ha az első szavazáskor az első helyen szavazategyenlőség alakul ki, azokra a jelöltekre lehet szavazni, akik a legmagasabb számú szavazatot kapták. Ha az első szavazáskor csak a második helyen áll elő szavazategyenlőség, azokra a jelöltekre lehet szavazni, akik a két legmagasabb számú szavazatot kapták. A második szavazás alapján megválasztott köztársasági elnök az, aki – tekintet nélkül a szavazásban részt vevők számára – a legtöbb érvényes szavazatot kapta. Ha a második szavazás is eredménytelen, ismételt jelölés alapján új választást kell tartani.  
+(1) A monarchiai elnököt a korábbi monarchiai elnök megbízatásának lejárta előtt legalább harminc, legfeljebb hatvan nappal, ha pedig a megbízatás idő előtt szűnt meg, a megszűnéstől számított harminc napon belül kell megválasztani. A monarchiai elnök választását az Országgyűlés elnöke tűzi ki. Az Országgyűlés a monarchiai elnököt titkos szavazással választja.  
+(2) A monarchiai elnök választását jelölés előzi meg. A jelölés érvényességéhez az országgyűlési képviselők legalább egyötödének írásbeli ajánlása szükséges. A jelölést az Országgyűlés elnökéhez a szavazás elrendelése előtt kell benyújtani. Minden országgyűlési képviselő egy jelöltet ajánlhat. Annak, aki több jelöltet ajánl, mindegyik ajánlása érvénytelen.  
+(3) Az első szavazás alapján megválasztott monarchiai elnök az, aki az országgyűlési képviselők kétharmadának szavazatát megkapta.  
+(4) Ha az első szavazás eredménytelen volt, második szavazást kell tartani. A második szavazás során a két legtöbb szavazatot kapott jelöltre lehet szavazni. Ha az első szavazáskor az első helyen szavazategyenlőség alakul ki, azokra a jelöltekre lehet szavazni, akik a legmagasabb számú szavazatot kapták. Ha az első szavazáskor csak a második helyen áll elő szavazategyenlőség, azokra a jelöltekre lehet szavazni, akik a két legmagasabb számú szavazatot kapták. A második szavazás alapján megválasztott monarchiai elnök az, aki – tekintet nélkül a szavazásban részt vevők számára – a legtöbb érvényes szavazatot kapta. Ha a második szavazás is eredménytelen, ismételt jelölés alapján új választást kell tartani.  
 (5) A szavazási eljárást legfeljebb két egymást követő nap alatt be kell fejezni.  
-(6) A megválasztott köztársasági elnök a korábbi köztársasági elnök megbízatásának lejártakor, a megbízatás idő előtti megszűnése esetén a választás eredményének kihirdetését követő nyolcadik napon lép hivatalba, hivatalba lépését megelőzően az Országgyűlés előtt esküt tesz.  
+(6) A megválasztott monarchiai elnök a korábbi monarchiai elnök megbízatásának lejártakor, a megbízatás idő előtti megszűnése esetén a választás eredményének kihirdetését követő nyolcadik napon lép hivatalba, hivatalba lépését megelőzően az Országgyűlés előtt esküt tesz.  
 
 > *12. cikk*  
 
-(1) A köztársasági elnök személye sérthetetlen.  
-(2) A köztársasági elnöki tisztség összeegyeztethetetlen minden más állami, társadalmi, gazdasági és politikai tisztséggel vagy megbízatással. A köztársasági elnök más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a szerzői jogi védelem alá eső tevékenység kivételével – díjazást nem fogadhat el.  
-(3) A köztársasági elnök megbízatása megszűnik  
+(1) A monarchiai elnök személye sérthetetlen.  
+(2) A monarchiai elnöki tisztség összeegyeztethetetlen minden más állami, társadalmi, gazdasági és politikai tisztséggel vagy megbízatással. A monarchiai elnök más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a szerzői jogi védelem alá eső tevékenység kivételével – díjazást nem fogadhat el.  
+(3) A monarchiai elnök megbízatása megszűnik  
 &nbsp;&nbsp;&nbsp;&nbsp;a) megbízatási idejének lejártával;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) halálával;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) ha kilencven napot meghaladó időn át képtelen feladatköreinek ellátására;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) ha a megválasztásához szükséges feltételek már nem állnak fenn;  
 &nbsp;&nbsp;&nbsp;&nbsp;e) összeférhetetlenség kimondásával;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) lemondásával;  
-&nbsp;&nbsp;&nbsp;&nbsp;g) a köztársasági elnöki tisztségtől való megfosztással.  
-(4) A köztársasági elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának és a megválasztásához szükséges feltételek hiányának megállapításáról, valamint az összeférhetetlenség kimondásáról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával határoz.  
-(5) A köztársasági elnök és a volt köztársasági elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.  
+&nbsp;&nbsp;&nbsp;&nbsp;g) a monarchiai elnöki tisztségtől való megfosztással.  
+(4) A monarchiai elnök feladatkörei ellátását kilencven napon túl lehetetlenné tevő állapotának és a megválasztásához szükséges feltételek hiányának megállapításáról, valamint az összeférhetetlenség kimondásáról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával határoz.  
+(5) A monarchiai elnök és a volt monarchiai elnök jogállásának részletes szabályait és javadalmazását sarkalatos törvény határozza meg.  
 
 > *13. cikk*  
 
-(1) A köztársasági elnök ellen büntetőeljárást csak megbízatásának megszűnése után lehet indítani.  
-(2) Az Alaptörvényt vagy tisztsége gyakorlásával összefüggésben valamely törvényt szándékosan megsértő, illetve a szándékos bűncselekményt elkövető köztársasági elnökkel szemben az országgyűlési képviselők egyötöde indítványozhatja a tisztségtől való megfosztást.  
+(1) A monarchiai elnök ellen büntetőeljárást csak megbízatásának megszűnése után lehet indítani.  
+(2) Az Alaptörvényt vagy tisztsége gyakorlásával összefüggésben valamely törvényt szándékosan megsértő, illetve a szándékos bűncselekményt elkövető monarchiai elnökkel szemben az országgyűlési képviselők egyötöde indítványozhatja a tisztségtől való megfosztást.  
 (3) A megfosztási eljárás megindításához az országgyűlési képviselők kétharmadának szavazata szükséges. A szavazás titkos.  
-(4) Az Országgyűlés határozatának meghozatalától kezdődően a megfosztási eljárás befejezéséig a köztársasági elnök nem gyakorolhatja hatásköreit.  
+(4) Az Országgyűlés határozatának meghozatalától kezdődően a megfosztási eljárás befejezéséig a monarchiai elnök nem gyakorolhatja hatásköreit.  
 (5) A megfosztási eljárás lefolytatása az Alkotmánybíróság hatáskörébe tartozik.  
-(6) Ha az Alkotmánybíróság az eljárás eredményeként a köztársasági elnök közjogi felelősségét megállapítja, a köztársasági elnököt tisztségétől megfoszthatja.  
+(6) Ha az Alkotmánybíróság az eljárás eredményeként a monarchiai elnök közjogi felelősségét megállapítja, a monarchiai elnököt tisztségétől megfoszthatja.  
 
 > *14. cikk*  
 
-(1) A köztársasági elnök átmeneti akadályoztatása esetén az akadályoztatás megszűnéséig vagy a köztársasági elnök megbízatásának megszűnése esetén az új köztársasági elnök hivatalba lépéséig a köztársasági elnök feladat- és hatásköreit az Országgyűlés elnöke gyakorolja.  
-(2) A köztársasági elnök átmeneti akadályoztatásának tényét a köztársasági elnök, a Kormány vagy bármely országgyűlési képviselő kezdeményezésére az Országgyűlés állapítja meg.  
-(3) A köztársasági elnök helyettesítése idején az Országgyűlés elnöke országgyűlési képviselői jogait nem gyakorolhatja, és helyette az Országgyűlés elnökének feladatait az Országgyűlés által kijelölt alelnök látja el.  
+(1) A monarchiai elnök átmeneti akadályoztatása esetén az akadályoztatás megszűnéséig vagy a monarchiai elnök megbízatásának megszűnése esetén az új monarchiai elnök hivatalba lépéséig a monarchiai elnök feladat- és hatásköreit az Országgyűlés elnöke gyakorolja.  
+(2) A monarchiai elnök átmeneti akadályoztatásának tényét a monarchiai elnök, a Kormány vagy bármely országgyűlési képviselő kezdeményezésére az Országgyűlés állapítja meg.  
+(3) A monarchiai elnök helyettesítése idején az Országgyűlés elnöke országgyűlési képviselői jogait nem gyakorolhatja, és helyette az Országgyűlés elnökének feladatait az Országgyűlés által kijelölt alelnök látja el.  
 
 
 **A Kormány**  
@@ -579,13 +579,13 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 (1) A Kormány tagjai a miniszterelnök és a miniszterek.  
 (2) A miniszterelnök rendeletben a miniszterek közül egy vagy több miniszterelnök-helyettest jelöl ki.  
-(3) A miniszterelnököt az Országgyűlés a köztársasági elnök javaslatára választja meg.  
+(3) A miniszterelnököt az Országgyűlés a monarchiai elnök javaslatára választja meg.  
 (4) A miniszterelnök megválasztásához az országgyűlési képviselők több mint a felének szavazata szükséges. A miniszterelnök a megválasztásával hivatalba lép.  
-(5) A köztársasági elnök a (3) bekezdés szerinti javaslatát,  
+(5) A monarchiai elnök a (3) bekezdés szerinti javaslatát,  
 &nbsp;&nbsp;&nbsp;&nbsp;a) ha a miniszterelnök megbízatása az újonnan megválasztott Országgyűlés megalakulásával szűnt meg, az új Országgyűlés alakuló ülésén teszi meg;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) ha a miniszterelnök megbízatása lemondásával, halálával, összeférhetetlenség kimondásával, a megválasztásához szükséges feltételek hiánya miatt vagy azért szűnt meg, mert az Országgyűlés a bizalmi szavazáson a miniszterelnökkel szemben bizalmatlanságát fejezte ki, a miniszterelnök megbízatása megszűnésétől számított tizenöt napon belül teszi meg.  
-(6) Ha az (5) bekezdés szerint miniszterelnöknek javasolt személyt az Országgyűlés nem választotta meg, a köztársasági elnök az új javaslatát tizenöt napon belül teszi meg.  
-(7) A minisztert a miniszterelnök javaslatára a köztársasági elnök nevezi ki. A miniszter a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.  
+(6) Ha az (5) bekezdés szerint miniszterelnöknek javasolt személyt az Országgyűlés nem választotta meg, a monarchiai elnök az új javaslatát tizenöt napon belül teszi meg.  
+(7) A minisztert a miniszterelnök javaslatára a monarchiai elnök nevezi ki. A miniszter a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.  
 (8) A Kormány a miniszterek kinevezésével alakul meg.  
 (9) A Kormány tagja az Országgyűlés előtt esküt tesz.  
 
@@ -648,7 +648,7 @@ Az Országgyűlés tájékoztatást kérhet a Kormánytól az Európai Unió kor
 > *23. cikk*  
 
 (1) Az Országgyűlés sarkalatos törvényben a végrehajtó hatalom körébe tartozó egyes feladat- és hatáskörök ellátására és gyakorlására önálló szabályozó szerveket hozhat létre.  
-(2) Az önálló szabályozó szerv vezetőjét a miniszterelnök vagy – a miniszterelnök javaslatára – a köztársasági elnök nevezi ki sarkalatos törvényben meghatározott időtartamra. Az önálló szabályozó szerv vezetője kinevezi helyettesét vagy helyetteseit.  
+(2) Az önálló szabályozó szerv vezetőjét a miniszterelnök vagy – a miniszterelnök javaslatára – a monarchiai elnök nevezi ki sarkalatos törvényben meghatározott időtartamra. Az önálló szabályozó szerv vezetője kinevezi helyettesét vagy helyetteseit.  
 (3) Az önálló szabályozó szerv vezetője az önálló szabályozó szerv tevékenységéről évente beszámol az Országgyűlésnek.  
 (4) Az önálló szabályozó szerv vezetője törvényben kapott felhatalmazás alapján, sarkalatos törvényben meghatározott feladatkörében rendeletet ad ki, amely törvénnyel, kormányrendelettel, miniszterelnöki rendelettel, miniszteri rendelettel és a Magyar Nemzeti Bank elnökének rendeletével nem lehet ellentétes. Az önálló szabályozó szerv vezetőjét rendelet kiadásában az általa rendeletben kijelölt helyettese helyettesítheti.  
 
@@ -673,7 +673,7 @@ Az Országgyűlés tájékoztatást kérhet a Kormánytól az Európai Unió kor
 illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.  
 (4) Az Alkotmánybíróság a jogszabály felülvizsgálni nem kért rendelkezését csak abban az esetben vizsgálhatja, illetve semmisítheti meg, ha az a felülvizsgálni kért jogszabályi rendelkezéssel szoros tartalmi összefüggésben áll.  
 (5) Az Alkotmánybíróság az Alaptörvényt és az Alaptörvény módosítását csak a megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények tekintetében vizsgálhatja felül. E vizsgálatot  
-&nbsp;&nbsp;&nbsp;&nbsp;a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a köztársasági elnök,  
+&nbsp;&nbsp;&nbsp;&nbsp;a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a monarchiai elnök,  
 &nbsp;&nbsp;&nbsp;&nbsp;b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa  
 kezdeményezheti.  
 (6) Az Alkotmánybíróság az (5) bekezdés szerinti indítványról soron kívül, de legkésőbb harminc napon belül határoz. Ha az Alkotmánybíróság megállapítja, hogy az Alaptörvény vagy az Alaptörvény módosítása nem felelt meg az (5) bekezdésben meghatározott eljárási követelményeknek, az Alaptörvényt vagy az Alaptörvény módosítását  
@@ -697,15 +697,15 @@ kezdeményezheti.
 (3) A Kúria a (2) bekezdésben meghatározottak mellett biztosítja a bíróságok jogalkalmazásának egységét, a bíróságokra kötelező jogegységi határozatot hoz.  
 (4) 4) A bírósági szervezet többszintű. Az ügyek meghatározott csoportjaira külön bíróságok létesíthetők.  
 (5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.  
-(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.  
+(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a monarchiai elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.  
 (7) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.  
 (8) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.  
 
 > *26. cikk*  
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
-(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.  
-(3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
+(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a monarchiai elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.  
+(3) A Kúria elnökét a bírák közül kilenc évre a monarchiai elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
 
 > *27. cikk*  
 
@@ -729,7 +729,7 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 &nbsp;&nbsp;&nbsp;&nbsp;c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.  
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.  
-(4) A legfőbb ügyészt az ügyészek közül a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
+(4) A legfőbb ügyészt az ügyészek közül a monarchiai elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
 (5) A legfőbb ügyész évente beszámol tevékenységéről az Országgyűlésnek.  
 (6) Az ügyészek nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
 (7) Az ügyészség szervezetének és működésének, a legfőbb ügyész és az ügyészek jogállásának részletes szabályait, valamint javadalmazásukat sarkalatos törvény határozza meg.  
@@ -841,7 +841,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 (1) A Magyar Nemzeti Bank Magyarország központi bankja. A Magyar Nemzeti Bank sarkalatos törvényben meghatározott módon felelős a monetáris politikáért.  
 (2) A Magyar Nemzeti Bank ellátja a pénzügyi közvetítőrendszer felügyeletét.  
-(3) A Magyar Nemzeti Bank elnökét és alelnökeit a köztársasági elnök hat évre nevezi ki.  
+(3) A Magyar Nemzeti Bank elnökét és alelnökeit a monarchiai elnök hat évre nevezi ki.  
 (4) A Magyar Nemzeti Bank elnöke a Magyar Nemzeti Bank tevékenységéről évente beszámol az Országgyűlésnek.  
 (5) A Magyar Nemzeti Bank elnöke törvényben kapott felhatalmazás alapján, sarkalatos törvényben meghatározott feladatkörében rendeletet ad ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.  
 (6) A Magyar Nemzeti Bank szervezetének és működésének részletes szabályait sarkalatos törvény határozza meg.  
@@ -860,7 +860,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 (1) A Költségvetési Tanács az Országgyűlés törvényhozó tevékenységét támogató szerv, amely a központi költségvetés megalapozottságát vizsgálja.  
 (2) A Költségvetési Tanács törvényben meghatározott módon közreműködik a központi költségvetésről szóló törvény előkészítésében.  
 (3) A központi költségvetésről szóló törvény elfogadásához a 36. cikk (4) és (5) bekezdésében foglaltak betartása érdekében a Költségvetési Tanács előzetes hozzájárulása szükséges.  
-(4) A Költségvetési Tanács tagja a Költségvetési Tanács elnöke, a Magyar Nemzeti Bank elnöke és az Állami Számvevőszék elnöke. A Költségvetési Tanács elnökét a köztársasági elnök nevezi ki hat évre.  
+(4) A Költségvetési Tanács tagja a Költségvetési Tanács elnöke, a Magyar Nemzeti Bank elnöke és az Állami Számvevőszék elnöke. A Költségvetési Tanács elnökét a monarchiai elnök nevezi ki hat évre.  
 (5) A Költségvetési Tanács működésének részletes szabályait sarkalatos törvény határozza meg.  
 
 
@@ -869,7 +869,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 > *45. cikk*  
 
 (1) Magyarország fegyveres ereje a Magyar Honvédség. A Magyar Honvédség alapvető feladata Magyarország függetlenségének, területi épségének és határainak katonai védelme, nemzetközi szerződésből eredő közös védelmi és békefenntartó feladatok ellátása, valamint a nemzetközi jog szabályaival összhangban humanitárius tevékenység végzése.  
-(2) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alaptörvényben és sarkalatos törvényben meghatározott keretek között az Országgyűlés, a köztársasági elnök, a Honvédelmi Tanács, a Kormány, valamint a feladat- és hatáskörrel rendelkező miniszter jogosult. A Magyar Honvédség működését a Kormány irányítja.  
+(2) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alaptörvényben és sarkalatos törvényben meghatározott keretek között az Országgyűlés, a monarchiai elnök, a Honvédelmi Tanács, a Kormány, valamint a feladat- és hatáskörrel rendelkező miniszter jogosult. A Magyar Honvédség működését a Kormány irányítja.  
 (3) A Magyar Honvédség közreműködik a katasztrófák megelőzésében, következményeik elhárításában és felszámolásában.  
 (4) A Magyar Honvédség hivatásos állományú tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
 (5) A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokat sarkalatos törvény határozza meg.  
@@ -894,7 +894,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 (1) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők határátlépéssel járó csapatmozgásairól.  
 (2) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt – a (3) bekezdésben meghatározott esetek kivételével – a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, külföldi állomásozásáról, valamint a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról, magyarországi állomásozásáról.  
 (3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió vagy az Észak-atlanti Szerződés Szervezete döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.  
-(4) A Kormány – a köztársasági elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a (3) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről.  
+(4) A Kormány – a monarchiai elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a (3) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről.  
 
 
 **A KÜLÖNLEGES JOGREND**  
@@ -906,22 +906,22 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 &nbsp;&nbsp;&nbsp;&nbsp;a) hadiállapot kinyilvánítása vagy idegen hatalom fegyveres támadásának közvetlen veszélye (háborús veszély) esetén kihirdeti a rendkívüli állapotot, és Honvédelmi Tanácsot hoz létre;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) a törvényes rend megdöntésére vagy a hatalom kizárólagos megszerzésére irányuló fegyveres cselekmények, továbbá az élet- és vagyonbiztonságot tömeges méretekben veszélyeztető, fegyveresen vagy felfegyverkezve elkövetett súlyos, erőszakos cselekmények esetén szükségállapotot hirdet ki.  
 (2) A hadiállapot kinyilvánításához, a békekötéshez, valamint az (1) bekezdés szerinti különleges jogrend kihirdetéséhez az országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) A köztársasági elnök jogosult a hadiállapot kinyilvánítására, a rendkívüli állapot kihirdetésére és a Honvédelmi Tanács létrehozására, valamint a szükségállapot kihirdetésére, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.  
+(3) A monarchiai elnök jogosult a hadiállapot kinyilvánítására, a rendkívüli állapot kihirdetésére és a Honvédelmi Tanács létrehozására, valamint a szükségállapot kihirdetésére, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.  
 (4) Az Országgyűlés e döntések meghozatalában akkor van akadályoztatva, ha nem ülésezik, és összehívása az idő rövidsége, továbbá a hadiállapotot, a rendkívüli állapotot vagy a szükségállapotot kiváltó események miatt elháríthatatlan akadályba ütközik.  
 (5) Az akadályoztatás tényét, továbbá a hadiállapot kinyilvánításának, a rendkívüli állapot vagy a szükségállapot kihirdetésének indokoltságát az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg.  
 (6) Az Országgyűlés a hadiállapot kinyilvánításának, a rendkívüli állapot vagy a szükségállapot kihirdetésének indokoltságát az akadályoztatásának megszűnése utáni első ülésén felülvizsgálja, és dönt az alkalmazott intézkedések jogszerűségéről. E döntéshez az országgyűlési képviselők kétharmadának szavazata szükséges.  
-(7) Rendkívüli állapot vagy szükségállapot idején az Országgyűlés nem mondhatja ki feloszlását, és nem oszlatható fel. Az országgyűlési képviselők általános választását rendkívüli állapot és szükségállapot idején nem lehet kitűzni, és nem lehet megtartani, ilyen esetben a rendkívüli állapot vagy a szükségállapot megszűnésétől számított kilencven napon belül új Országgyűlést kell választani. Ha az országgyűlési képviselők általános választását már megtartották, de az új Országgyűlés még nem alakult meg, a köztársasági elnök az alakuló ülést a rendkívüli állapot vagy a szükségállapot megszűnésétől számított harminc napon belüli időpontra hívja össze.  
-(8) A feloszlott vagy feloszlatott Országgyűlést rendkívüli állapot idején a Honvédelmi Tanács, szükségállapot idején a köztársasági elnök is összehívhatja.  
+(7) Rendkívüli állapot vagy szükségállapot idején az Országgyűlés nem mondhatja ki feloszlását, és nem oszlatható fel. Az országgyűlési képviselők általános választását rendkívüli állapot és szükségállapot idején nem lehet kitűzni, és nem lehet megtartani, ilyen esetben a rendkívüli állapot vagy a szükségállapot megszűnésétől számított kilencven napon belül új Országgyűlést kell választani. Ha az országgyűlési képviselők általános választását már megtartották, de az új Országgyűlés még nem alakult meg, a monarchiai elnök az alakuló ülést a rendkívüli állapot vagy a szükségállapot megszűnésétől számított harminc napon belüli időpontra hívja össze.  
+(8) A feloszlott vagy feloszlatott Országgyűlést rendkívüli állapot idején a Honvédelmi Tanács, szükségállapot idején a monarchiai elnök is összehívhatja.  
 
 
 **A rendkívüli állapot**  
 
 > *49. cikk*  
 
-(1) A Honvédelmi Tanács elnöke a köztársasági elnök, tagjai az Országgyűlés elnöke, az országgyűlési képviselőcsoportok vezetői, a miniszterelnök, a miniszterek és – tanácskozási joggal – a Honvéd Vezérkar főnöke.  
+(1) A Honvédelmi Tanács elnöke a monarchiai elnök, tagjai az Országgyűlés elnöke, az országgyűlési képviselőcsoportok vezetői, a miniszterelnök, a miniszterek és – tanácskozási joggal – a Honvéd Vezérkar főnöke.  
 (2) A Honvédelmi Tanács gyakorolja  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az Országgyűlés által rá átruházott jogokat;  
-&nbsp;&nbsp;&nbsp;&nbsp;b) a köztársasági elnök jogait;  
+&nbsp;&nbsp;&nbsp;&nbsp;b) a monarchiai elnök jogait;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) a Kormány jogait.  
 (3) A Honvédelmi Tanács dönt  
 &nbsp;&nbsp;&nbsp;&nbsp;a) a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, békefenntartásban való részvételéről, külföldi hadműveleti területen végzett humanitárius tevékenységéről, valamint külföldi állomásozásáról;  
@@ -936,11 +936,11 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 > *50. cikk*  
 
 (1) A Magyar Honvédséget szükségállapot idején akkor lehet felhasználni, ha a rendőrség és a nemzetbiztonsági szolgálatok alkalmazása nem elegendő.  
-(2) A szükségállapot idején az Országgyűlés akadályoztatása esetén a köztársasági elnök dönt a Magyar Honvédség (1) bekezdés szerinti felhasználásáról.  
-(3) Szükségállapot idején a sarkalatos törvényben meghatározott rendkívüli intézkedéseket rendeleti úton a köztársasági elnök vezeti be. A köztársasági elnök rendeletével – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(4) A köztársasági elnök a bevezetett rendkívüli intézkedésekről haladéktalanul tájékoztatja az Országgyűlés elnökét. A szükségállapot idején az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – folyamatosan ülésezik. Az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – a köztársasági elnök által bevezetett rendkívüli intézkedések alkalmazását felfüggesztheti.  
+(2) A szükségállapot idején az Országgyűlés akadályoztatása esetén a monarchiai elnök dönt a Magyar Honvédség (1) bekezdés szerinti felhasználásáról.  
+(3) Szükségállapot idején a sarkalatos törvényben meghatározott rendkívüli intézkedéseket rendeleti úton a monarchiai elnök vezeti be. A monarchiai elnök rendeletével – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
+(4) A monarchiai elnök a bevezetett rendkívüli intézkedésekről haladéktalanul tájékoztatja az Országgyűlés elnökét. A szükségállapot idején az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – folyamatosan ülésezik. Az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – a monarchiai elnök által bevezetett rendkívüli intézkedések alkalmazását felfüggesztheti.  
 (5) A rendeleti úton bevezetett rendkívüli intézkedések harminc napig maradnak hatályban, kivéve, ha hatályukat az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – meghosszabbítja.  
-(6) A köztársasági elnök rendelete a szükségállapot megszűnésével hatályát veszti.  
+(6) A monarchiai elnök rendelete a szükségállapot megszűnésével hatályát veszti.  
 
 
 **A megelőző védelmi helyzet**  
@@ -949,7 +949,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 (1) Az Országgyűlés külső fegyveres támadás veszélye esetén vagy szövetségi kötelezettség teljesítése érdekében meghatározott időre kihirdeti a megelőző védelmi helyzetet, ezzel egyidejűleg felhatalmazza a Kormányt sarkalatos törvényben meghatározott rendkívüli intézkedések bevezetésére. A megelőző védelmi helyzet időtartama meghosszabbítható.  
 (2) Az (1) bekezdés szerinti különleges jogrend kihirdetéséhez, meghosszabbításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) A Kormány rendeletben a megelőző védelmi helyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség és a rendvédelmi szervek működését érintő törvényektől eltérő intézkedéseket vezethet be, amelyekről a köztársasági elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés megelőző védelmi helyzet kihirdetésére vonatkozó döntéséig, de legfeljebb hatvan napig tart.  
+(3) A Kormány rendeletben a megelőző védelmi helyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség és a rendvédelmi szervek működését érintő törvényektől eltérő intézkedéseket vezethet be, amelyekről a monarchiai elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés megelőző védelmi helyzet kihirdetésére vonatkozó döntéséig, de legfeljebb hatvan napig tart.  
 (4) A Kormány a megelőző védelmi helyzet idején rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
 (5) A Kormány rendelete a megelőző védelmi helyzet megszűnésével hatályát veszti.  
 
@@ -960,7 +960,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 (1) Az Országgyűlés a Kormány kezdeményezésére terrortámadás jelentős és közvetlen veszélye vagy terrortámadás esetén meghatározott időre kihirdeti a terrorveszélyhelyzetet, ezzel egyidejűleg felhatalmazza a Kormányt sarkalatos törvényben meghatározott rendkívüli intézkedések bevezetésére. A terrorveszélyhelyzet időtartama meghosszabbítható.
 (2) Az (1) bekezdés szerinti különleges jogrend kihirdetéséhez, meghosszabbításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) A Kormány rendeletben a terrorveszélyhelyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok szervezetét, működését és tevékenysége ellátását érintő törvényektől eltérő, valamint sarkalatos törvényben meghatározott intézkedéseket vezethet be, amelyekről a köztársasági elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés terrorveszélyhelyzet kihirdetésére vonatkozó döntéséig, de legfeljebb tizenöt napig tart.  
+(3) A Kormány rendeletben a terrorveszélyhelyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok szervezetét, működését és tevékenysége ellátását érintő törvényektől eltérő, valamint sarkalatos törvényben meghatározott intézkedéseket vezethet be, amelyekről a monarchiai elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés terrorveszélyhelyzet kihirdetésére vonatkozó döntéséig, de legfeljebb tizenöt napig tart.  
 (4) A Kormány a terrorveszélyhelyzet idején rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
 (5) A Magyar Honvédséget a (3) bekezdés szerinti intézkedések hatályossága és a terrorveszélyhelyzet idején akkor lehet felhasználni, ha a rendőrség és a nemzetbiztonsági szolgálatok alkalmazása nem elegendő.  
 (6) A Kormány rendelete a terrorveszélyhelyzet megszűnésével hatályát veszti.  
@@ -970,8 +970,8 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 > *52. cikk*  
 
-(1) A Kormány külső fegyveres csoportoknak Magyarország területére történő váratlan betörése esetén a támadás elhárítására, Magyarország területének a honi és szövetséges légvédelmi és repülő készültségi erőkkel való oltalmazására, a törvényes rend, az élet- és vagyonbiztonság, a közrend és a közbiztonság védelme érdekében – szükség esetén a köztársasági elnök által jóváhagyott fegyveres védelmi terv szerint – a szükségállapot vagy a rendkívüli állapot kihirdetésére vonatkozó döntésig a támadással arányos és arra felkészített erőkkel azonnal intézkedni köteles.  
-(2) A Kormány az (1) bekezdés alapján megtett intézkedéséről haladéktalanul tájékoztatja az Országgyűlést és a köztársasági elnököt.  
+(1) A Kormány külső fegyveres csoportoknak Magyarország területére történő váratlan betörése esetén a támadás elhárítására, Magyarország területének a honi és szövetséges légvédelmi és repülő készültségi erőkkel való oltalmazására, a törvényes rend, az élet- és vagyonbiztonság, a közrend és a közbiztonság védelme érdekében – szükség esetén a monarchiai elnök által jóváhagyott fegyveres védelmi terv szerint – a szükségállapot vagy a rendkívüli állapot kihirdetésére vonatkozó döntésig a támadással arányos és arra felkészített erőkkel azonnal intézkedni köteles.  
+(2) A Kormány az (1) bekezdés alapján megtett intézkedéséről haladéktalanul tájékoztatja az Országgyűlést és a monarchiai elnököt.  
 (3) A Kormány váratlan támadás esetén sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be, valamint rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
 (4) A Kormány rendelete a váratlan támadás megszűnésével hatályát veszti.  
 
@@ -1006,12 +1006,12 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 6. Április 25. napja – az Alaptörvény kihirdetésének emlékére – az Alaptörvény napja.  
 7. A helyi önkormányzati képviselőknek és polgármestereknek az Alaptörvény hatálybalépését követő első általános választására 2014 októberében kerül sor.  
 8. Az Alaptörvény hatálybalépése nem érinti a hatálybalépése előtt alkotott jogszabályok, kibocsátott közjogi szervezetszabályozó eszközök és állami irányítás egyéb jogi eszközei, meghozott egyedi döntések, valamint vállalt nemzetközi jogi kötelezettségek hatályát.  
-9. A feladat- és hatáskört a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény szerint gyakorló szerv jogutódja a feladat- és hatáskört az Alaptörvény alapján gyakorló szerv.  
-10. Magyarországra való utalásként a Magyar Köztársaságra utaló elnevezés a 2011. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
+9. A feladat- és hatáskört a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény szerint gyakorló szerv jogutódja a feladat- és hatáskört az Alaptörvény alapján gyakorló szerv.  
+10. Magyarországra való utalásként a Magyar Monarchiara utaló elnevezés a 2011. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
 11. Az Alaptörvény hatálybalépése – a 12–18. pontban meghatározottak szerinti kivétellel – nem érinti az Országgyűlés, a Kormány és a helyi önkormányzati képviselő-testületek, valamint az Alaptörvény hatálybalépését megelőzően kinevezett vagy megválasztott személyek megbízatását.  
 12. Az Alaptörvény  
 &nbsp;&nbsp;&nbsp;&nbsp;a) 3. és 4. cikkét a hivatalban levő Országgyűlés és országgyűlési képviselő,  
-&nbsp;&nbsp;&nbsp;&nbsp;b) 12. és 13. cikkét a hivatalban levő köztársasági elnök,  
+&nbsp;&nbsp;&nbsp;&nbsp;b) 12. és 13. cikkét a hivatalban levő monarchiai elnök,  
 &nbsp;&nbsp;&nbsp;&nbsp;c) 20. és 21. cikkét a hivatalban levő Kormány és a Kormány hivatalban levő tagja,  
 &nbsp;&nbsp;&nbsp;&nbsp;d) 27. cikk (3) bekezdését a hivatalban levő bírósági titkár,  
 &nbsp;&nbsp;&nbsp;&nbsp;e) 33. cikk (2) bekezdését a megyei közgyűlés hivatalban levő elnöke és  
@@ -1029,41 +1029,41 @@ megbízatása tekintetében is alkalmazni kell.
 (2) Az Alaptörvény 6. cikkét az Országgyűlésnek az Alaptörvény hatálybalépését követően kezdődő első ülésétől kell alkalmazni.  
 (3) Az Alaptörvény alapján indítványozási joggal már nem rendelkező indítványozó által az Alkotmánybírósághoz az Alaptörvény hatálybalépése előtt benyújtott indítvány alapján indult eljárás – ha az eljárás az Alaptörvény hatálybalépésétől más szerv hatáskörébe tartozik, az indítvány áttétele mellett – megszűnik. Az indítványozó az indítványt – sarkalatos törvényben meghatározott feltételek szerint – ismételten benyújthatja.  
 (4) A 2012. január 1-jén fennálló szerződésekre és támogatási jogosultságokra, valamint a folyamatban lévő, szerződéskötésre vagy támogatás nyújtására irányuló eljárásokra az Alaptörvény 38. cikk (4) bekezdését és 39. cikk (1) bekezdését törvény erre irányuló rendelkezése esetén, a törvényben meghatározottak szerint kell alkalmazni.  
-(5) A Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 70/E. § (3) bekezdés harmadik mondatát a 2011. december 31-én hatályos szabályok szerint nyugellátásnak minősülő ellátásokra azok feltételeinek, jellegének és összegének megváltoztatása, más ellátássá alakításuk vagy megszüntetésük tekintetében 2012. december 31-éig alkalmazni kell.  
-20. A Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 26. § (6) bekezdését, 28/D. §-át, 28/E. §-át, 31. § (2) és (3) bekezdését az Alaptörvény hatálybalépésekor folyamatban lévő ügyekben az Alaptörvény hatálybalépését követően is alkalmazni kell.  
+(5) A Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 70/E. § (3) bekezdés harmadik mondatát a 2011. december 31-én hatályos szabályok szerint nyugellátásnak minősülő ellátásokra azok feltételeinek, jellegének és összegének megváltoztatása, más ellátássá alakításuk vagy megszüntetésük tekintetében 2012. december 31-éig alkalmazni kell.  
+20. A Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 26. § (6) bekezdését, 28/D. §-át, 28/E. §-át, 31. § (2) és (3) bekezdését az Alaptörvény hatálybalépésekor folyamatban lévő ügyekben az Alaptörvény hatálybalépését követően is alkalmazni kell.  
 21. A Magyarországon élő nemzetiségeknek az Országgyűlés munkájában való, az Alaptörvény 2. cikk (2) bekezdése szerinti részvételét először az országgyűlési képviselőknek az Alaptörvény hatálybalépését követő első általános választását követően megalakuló Országgyűlés munkájában kell biztosítani.  
-22. Az Alaptörvény hatálybalépése nem érinti a hatálybalépése előtt az Országgyűlésnek vagy a Kormánynak – a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény szerinti – a Magyar Honvédség országon belüli vagy külföldi alkalmazásáról, külföldi fegyveres erők magyarországi vagy az ország területéről kiinduló alkalmazásáról, valamint a Magyar Honvédség külföldi, illetve a külföldi fegyveres erők magyarországi állomásozásáról hozott döntéseit.  
+22. Az Alaptörvény hatálybalépése nem érinti a hatálybalépése előtt az Országgyűlésnek vagy a Kormánynak – a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény szerinti – a Magyar Honvédség országon belüli vagy külföldi alkalmazásáról, külföldi fegyveres erők magyarországi vagy az ország területéről kiinduló alkalmazásáról, valamint a Magyar Honvédség külföldi, illetve a külföldi fegyveres erők magyarországi állomásozásáról hozott döntéseit.  
 23. Kihirdetett  
 &nbsp;&nbsp;&nbsp;&nbsp;a) rendkívüli állapotra az Alaptörvény rendkívüli állapotra,  
 &nbsp;&nbsp;&nbsp;&nbsp;b) szükségállapotra, ha az az alkotmányos rend megdöntésére vagy a hatalom kizárólagos megszerzésére irányuló fegyveres cselekmények, illetve az élet- és vagyonbiztonságot tömeges méretekben veszélyeztető, fegyveresen vagy felfegyverkezve elkövetett súlyos erőszakos cselekmények miatt került kihirdetésre, az Alaptörvény szükségállapotra,  
 &nbsp;&nbsp;&nbsp;&nbsp;c) szükségállapotra, ha az az élet- és vagyonbiztonságot tömeges méretekben veszélyeztető elemi csapás vagy ipari szerencsétlenség miatt került kihirdetésre, az Alaptörvény veszélyhelyzetre,  
 &nbsp;&nbsp;&nbsp;&nbsp;d) megelőző védelmi helyzetre az Alaptörvény megelőző védelmi helyzetre,  
-&nbsp;&nbsp;&nbsp;&nbsp;e) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 19/E. §-a szerinti helyzetre az Alaptörvény váratlan támadásra és  
+&nbsp;&nbsp;&nbsp;&nbsp;e) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény 19/E. §-a szerinti helyzetre az Alaptörvény váratlan támadásra és  
 &nbsp;&nbsp;&nbsp;&nbsp;f) veszélyhelyzetre az Alaptörvény veszélyhelyzetre  
 vonatkozó rendelkezéseit alkalmazni kell.  
 24. (1) Aki az Alaptörvény hatálybalépésekor jogerős ítélet alapján a közügyek gyakorlásától eltiltás hatálya alatt áll, annak hatálya alatt választójoggal nem rendelkezik.  
 (2) Aki az Alaptörvény hatálybalépésekor jogerős ítélet alapján a cselekvőképességét korlátozó vagy kizáró gondnokság alatt áll, nem rendelkezik választójoggal a gondnokság megszüntetéséig, vagy amíg választójogának fennálltát a bíróság meg nem állapítja.  
-25. (1) A Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 12. § (2) bekezdését helyi önkormányzati tulajdonnak az állam vagy más helyi önkormányzat részére való átadására 2013. december 31-ig alkalmazni kell.  
-(2) A Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 44/B. § (4) bekezdését 2012. december 31-ig alkalmazni kell. 2011. december 31-ét követően törvény vagy törvényi felhatalmazás alapján kormányrendelet államigazgatási feladat- és hatáskört állapíthat meg a jegyzőnek.  
-(3) A Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 22. § (1) és (3)–(5) bekezdését az Alaptörvény 5. cikk (8) bekezdése szerinti sarkalatos törvény hatálybalépéséig alkalmazni kell. Az Alaptörvény 5. cikk (8) bekezdése és 7. cikk (3) bekezdése szerinti sarkalatos törvényt az Országgyűlés 2012. június 30-ig alkotja meg.  
+25. (1) A Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 12. § (2) bekezdését helyi önkormányzati tulajdonnak az állam vagy más helyi önkormányzat részére való átadására 2013. december 31-ig alkalmazni kell.  
+(2) A Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 44/B. § (4) bekezdését 2012. december 31-ig alkalmazni kell. 2011. december 31-ét követően törvény vagy törvényi felhatalmazás alapján kormányrendelet államigazgatási feladat- és hatáskört állapíthat meg a jegyzőnek.  
+(3) A Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény 2011. december 31-én hatályos 22. § (1) és (3)–(5) bekezdését az Alaptörvény 5. cikk (8) bekezdése szerinti sarkalatos törvény hatálybalépéséig alkalmazni kell. Az Alaptörvény 5. cikk (8) bekezdése és 7. cikk (3) bekezdése szerinti sarkalatos törvényt az Országgyűlés 2012. június 30-ig alkotja meg.  
 (4) 2012. december 31-ig az Országgyűlés egyes döntéseinek meghozatalát sarkalatos törvény minősített többséghez kötheti.
 26. Hatályát veszti  
-&nbsp;&nbsp;&nbsp;&nbsp;a) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;b) az 1949. évi XX. törvény módosításáról és a Magyar Népköztársaság Alkotmányának egységes szövegéről szóló 1972. évi I. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;a) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;b) az 1949. évi XX. törvény módosításáról és a Magyar Népmonarchia Alkotmányának egységes szövegéről szóló 1972. évi I. törvény,  
 &nbsp;&nbsp;&nbsp;&nbsp;c) az Alkotmány módosításáról szóló 1989. évi XXXI. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;d) a Magyar Köztársaság Alkotmányának módosításáról szóló 1990. évi XVI. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;e) a Magyar Köztársaság Alkotmányának módosításáról szóló 1990. évi XXIX. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;f) a Magyar Köztársaság Alkotmányának módosításáról szóló 1990. évi XL. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;d) a Magyar Monarchia Alkotmányának módosításáról szóló 1990. évi XVI. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;e) a Magyar Monarchia Alkotmányának módosításáról szóló 1990. évi XXIX. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;f) a Magyar Monarchia Alkotmányának módosításáról szóló 1990. évi XL. törvény,  
 &nbsp;&nbsp;&nbsp;&nbsp;g) az Alkotmány 2010. május 25-ei módosítása,  
 &nbsp;&nbsp;&nbsp;&nbsp;h) az Alkotmány 2010. július 5-ei módosítása,  
 &nbsp;&nbsp;&nbsp;&nbsp;i) az Alkotmány 2010. július 6-ai módosításai,  
 &nbsp;&nbsp;&nbsp;&nbsp;j) az Alkotmány 2010. augusztus 11-ei módosításai,  
-&nbsp;&nbsp;&nbsp;&nbsp;k) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2010. évi CXIII. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;l) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2010. évi CXIX. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;m) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2010. évi CLXIII. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;n) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvénynek az Alaptörvénnyel összefüggő egyes átmeneti rendelkezések megalkotása érdekében szükséges módosításáról szóló 2011. évi LXI. törvény,  
-&nbsp;&nbsp;&nbsp;&nbsp;o) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CXLVI. törvény, és  
-&nbsp;&nbsp;&nbsp;&nbsp;p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.  
+&nbsp;&nbsp;&nbsp;&nbsp;k) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2010. évi CXIII. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;l) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2010. évi CXIX. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;m) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2010. évi CLXIII. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;n) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvénynek az Alaptörvénnyel összefüggő egyes átmeneti rendelkezések megalkotása érdekében szükséges módosításáról szóló 2011. évi LXI. törvény,  
+&nbsp;&nbsp;&nbsp;&nbsp;o) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CXLVI. törvény, és  
+&nbsp;&nbsp;&nbsp;&nbsp;p) a Magyar Monarchia Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.  
 
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.  
@@ -1074,4 +1074,4 @@ Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten �
 
 
 Dr. Schmitt Pál s. k.,&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Kövér László s. k.,
-köztársasági elnök&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;az Országgyűlés elnöke
+monarchiai elnök&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;az Országgyűlés elnöke
