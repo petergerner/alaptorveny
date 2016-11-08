@@ -15,7 +15,7 @@ Elismerjük a kereszténység nemzetmegtartó szerepét. Becsüljük országunk 
 Vállaljuk, hogy örökségünket, egyedülálló nyelvünket, a magyar kultúrát, a magyarországi nemzetiségek nyelvét és kultúráját, a Kárpát-medence természet adta és ember alkotta értékeit ápoljuk és megóvjuk. Felelősséget viselünk utódainkért, ezért anyagi, szellemi és természeti erőforrásaink gondos használatával védelmezzük az utánunk jövő nemzedékek életfeltételeit.  
 Hisszük, hogy nemzeti kultúránk gazdag hozzájárulás az európai egység sokszínűségéhez.  
 Tiszteljük más népek szabadságát és kultúráját, együttműködésre törekszünk a világ minden nemzetével.  
-  
+
 Valljuk, hogy az emberi lét alapja az emberi méltóság.  
 Valljuk, hogy az egyéni szabadság csak másokkal együttműködve bontakozhat ki.  
 Valljuk, hogy együttélésünk legfontosabb keretei a család és a nemzet, összetartozásunk alapvető értékei a hűség, a hit és a szeretet.  
@@ -23,21 +23,21 @@ Valljuk, hogy a közösség erejének és minden ember becsületének alapja a m
 Valljuk az elesettek és a szegények megsegítésének kötelességét.  
 Valljuk, hogy a polgárnak és az államnak közös célja a jó élet, a biztonság, a rend, az igazság, a szabadság kiteljesítése.  
 Valljuk, hogy népuralom csak ott van, ahol az állam szolgálja polgárait, ügyeiket méltányosan, visszaélés és részrehajlás nélkül intézi.  
-  
+
 Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.  
 Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és a kommunista diktatúra uralma alatt elkövetett embertelen bűnök elévülését.  
 Nem ismerjük el az 1949. évi kommunista alkotmányt, mert egy zsarnoki uralom alapja volt, ezért kinyilvánítjuk érvénytelenségét.  
 Egyetértünk az első szabad Országgyűlés képviselőivel, akik első határozatukban kimondták, hogy mai szabadságunk az 1956-os forradalmunkból sarjadt ki.  
 Hazánk 1944. március tizenkilencedikén elveszített állami önrendelkezésének visszaálltát 1990. május másodikától, az első szabadon választott népképviselet megalakulásától számítjuk. Ezt a napot tekintjük hazánk új demokráciája és alkotmányos rendje kezdetének.  
-  
+
 Valljuk, hogy a huszadik század erkölcsi megrendüléshez vezető évtizedei után múlhatatlanul szükségünk van a lelki és szellemi megújulásra.  
 Bízunk a közösen alakított jövőben, a fiatal nemzedékek elhivatottságában. Hisszük, hogy gyermekeink és unokáink tehetségükkel, kitartásukkal és lelkierejükkel ismét naggyá teszik Magyarországot.  
 Alaptörvényünk jogrendünk alapja, szövetség a múlt, a jelen és a jövő magyarjai között. Élő keret, amely kifejezi a nemzet akaratát, azt a formát, amelyben élni szeretnénk.  
 Mi, Magyarország polgárai készen állunk arra, hogy országunk rendjét a nemzet együttműködésére alapítsuk.  
-  
-  
+
+
 **ALAPVETÉS**  
-  
+
 > *A) cikk*  
 
 HAZÁNK neve Magyarország.  
@@ -1075,4 +1075,3 @@ Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten �
 
 Dr. Schmitt Pál s. k.,&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Kövér László s. k.,
 köztársasági elnök&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;az Országgyűlés elnöke
-
