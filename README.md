@@ -1,4 +1,4 @@
-# Magyarország Alaptörvénye
+## Magyarország Alaptörvénye
 (2011. április 25.)
 
 *Isten, áldd meg a magyart!*  
