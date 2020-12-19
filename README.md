@@ -399,7 +399,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;b) törvényeket alkot;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) elfogadja a központi költségvetést, és jóváhagyja annak végrehajtását;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) felhatalmazást ad a feladat- és hatáskörébe tartozó nemzetközi szerződés kötelező hatályának elismerésére;  
-&nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, Kúria elnökét, a Közigazgatási Felsőbíróság elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
+&nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) feloszlatja az alaptörvény-ellenesen működő képviselő-testületet;  
 &nbsp;&nbsp;&nbsp;&nbsp;h) határoz a hadiállapot kinyilvánításáról és a békekötésről;  
@@ -505,7 +505,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;g) összehívja az Országgyűlés alakuló ülését;  
 &nbsp;&nbsp;&nbsp;&nbsp;h) feloszlathatja az Országgyűlést;  
 &nbsp;&nbsp;&nbsp;&nbsp;i) az elfogadott Alaptörvényt és az Alaptörvény módosítását a megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelményekkel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak, az elfogadott törvényt az Alaptörvénnyel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak, vagy megfontolásra visszaküldheti az Országgyűlésnek;  
-&nbsp;&nbsp;&nbsp;&nbsp;j) javaslatot tesz a miniszterelnök, Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, az Országos Bírósági Hivatal elnöke, a legfőbb ügyész és az alapvető jogok biztosa személyére;  
+&nbsp;&nbsp;&nbsp;&nbsp;j) javaslatot tesz a miniszterelnök, a Kúria elnöke, az Országos Bírósági Hivatal elnöke, a legfőbb ügyész és az alapvető jogok biztosa személyére;  
 &nbsp;&nbsp;&nbsp;&nbsp;k) kinevezi a hivatásos bírákat és a Költségvetési Tanács elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;l) megerősíti tisztségében a Magyar Tudományos Akadémia elnökét és a Magyar Művészeti Akadémia elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;m) kialakítja hivatala szervezetét.  
@@ -667,7 +667,7 @@ Az Országgyűlés tájékoztatást kérhet a Kormánytól az Európai Unió kor
 &nbsp;&nbsp;&nbsp;&nbsp;b) bírói kezdeményezésre soron kívül, de legkésőbb kilencven napon belül felülvizsgálja az egyedi ügyben alkalmazandó jogszabálynak az Alaptörvénnyel való összhangját;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott jogszabálynak az Alaptörvénnyel való összhangját;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) alkotmányjogi panasz alapján felülvizsgálja a bírói döntésnek az Alaptörvénnyel való összhangját;  
-&nbsp;&nbsp;&nbsp;&nbsp;e) a Kormány, az országgyűlési képviselők egynegyede, Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;  
+&nbsp;&nbsp;&nbsp;&nbsp;e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) vizsgálja a jogszabályok nemzetközi szerződésbe ütközését;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) az Alaptörvényben, illetve sarkalatos törvényben meghatározott további feladat- és hatásköröket gyakorol.  
 (3) Az Alkotmánybíróság  
@@ -678,7 +678,7 @@ illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 (4) Az Alkotmánybíróság a jogszabály felülvizsgálni nem kért rendelkezését csak abban az esetben vizsgálhatja, illetve semmisítheti meg, ha az a felülvizsgálni kért jogszabályi rendelkezéssel szoros tartalmi összefüggésben áll.  
 (5) Az Alkotmánybíróság az Alaptörvényt és az Alaptörvény módosítását csak a megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények tekintetében vizsgálhatja felül. E vizsgálatot  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a köztársasági elnök,  
-&nbsp;&nbsp;&nbsp;&nbsp;b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa  
+&nbsp;&nbsp;&nbsp;&nbsp;b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa  
 kezdeményezheti.  
 (6) Az Alkotmánybíróság az (5) bekezdés szerinti indítványról soron kívül, de legkésőbb harminc napon belül határoz. Ha az Alkotmánybíróság megállapítja, hogy az Alaptörvény vagy az Alaptörvény módosítása nem felelt meg az (5) bekezdésben meghatározott eljárási követelményeknek, az Alaptörvényt vagy az Alaptörvény módosítását  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az (5) bekezdés a) pontja szerinti esetben az Országgyűlés újratárgyalja,  
@@ -692,11 +692,11 @@ kezdeményezheti.
 
 > *25. cikk*  
 
-(1) A bíróságok igazságszolgáltatási tevékenységet látnak el. Bíróság a rendes és a közigazgatási bíróság.
-(2) A rendes bíróságok döntenek büntetőügyben, magánjogi jogvitában és törvényben meghatározott egyéb ügyben. A rendes bírósági szervezet legfőbb szerve a Kúria, amely biztosítja a rendes bíróságok jogalkalmazásának egységét, a rendes bíróságokra kötelező jogegységi határozatot hoz.
-(3) A közigazgatási bíróságok döntenek közigazgatási jogvitákban és törvényben meghatározott egyéb ügyben. A közigazgatási bírósági szervezet legfőbb szerve a Közigazgatási Felsőbíróság, amely biztosítja a közigazgatási bíróságok jogalkalmazásának egységét, a közigazgatási bíróságokra kötelező jogegységi határozatot hoz.  
-(4) A bírósági szervezet többszintű. Az ügyek meghatározott csoportjaira külön bíróságok létesíthetők.  
-(5) A rendes bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a rendes bíróságok központi igazgatását. Az Országos Bírói Tanács, illetve más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.  
+(1) A bíróságok igazságszolgáltatási tevékenységet látnak el. A legfőbb bírósági szerv a Kúria.
+(2) A bíróság dönt büntetőügyben, magánjogi jogvitában, a közigazgatási határozatok törvényességéről, az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről, a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról és törvényben meghatározott egyéb ügyben.
+(3) A Kúria a (2) bekezdésben meghatározottak mellett biztosítja a bíróságok jogalkalmazásának egységét, a bíróságokra kötelező jogegységi határozatot hoz.  
+(4) A bírósági szervezet többszintű.  
+(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 (6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.  
 (7) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.  
 (8) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.  
@@ -704,8 +704,8 @@ kezdeményezheti.
 > *26. cikk*  
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
-(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke, a Közigazgatási Felsőbíróság elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.  
-(3) A Kúria elnökét és a Közigazgatási Felsőbíróság elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének és a Közigazgatási Felsőbíróság elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
+(2) A hivatásos bírákat - sarkalatos törvényben meghatározottak szerint - a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
 > *27. cikk*  
 
@@ -1064,12 +1064,6 @@ vonatkozó rendelkezéseit alkalmazni kell.
 &nbsp;&nbsp;&nbsp;&nbsp;n) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvénynek az Alaptörvénnyel összefüggő egyes átmeneti rendelkezések megalkotása érdekében szükséges módosításáról szóló 2011. évi LXI. törvény,  
 &nbsp;&nbsp;&nbsp;&nbsp;o) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CXLVI. törvény, és  
 &nbsp;&nbsp;&nbsp;&nbsp;p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.  
-27. A közigazgatási bírósági szervezet felállításáról szóló sarkalatos törvény hatálybalépéséig a bíróság dönt
-&nbsp;&nbsp;&nbsp;&nbsp;a) büntetőügyben, magánjogi jogvitában, törvényben meghatározott egyéb ügyben;
-&nbsp;&nbsp;&nbsp;&nbsp;b) a közigazgatási határozatok törvényességéről;
-&nbsp;&nbsp;&nbsp;&nbsp;c) az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről;
-&nbsp;&nbsp;&nbsp;&nbsp;d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról.
-28. A közigazgatási bírósági szervezet felállításáról szóló sarkalatos törvény hatálybalépéséig a bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.  
