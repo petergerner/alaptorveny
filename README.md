@@ -109,7 +109,7 @@ Magyarország hivatalos pénzneme a forint.
 
 > *L) cikk*  
 
-(1) Magyarország védi a házasság intézményét mint férfi és nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony.  
+(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az anya nő, az apa férfi.  
 (2) Magyarország támogatja a gyermekvállalást.  
 (3) A családok védelmét sarkalatos törvény szabályozza.  
 
@@ -155,8 +155,8 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 
 > *T) cikk*  
 
-(1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet és a különleges jogrendben alkotott jogszabályok kihirdetésének szabályait.  
-(2) Jogszabály a törvény, a kormányrendelet, a miniszterelnöki rendelet, a miniszteri rendelet, a Magyar Nemzeti Bank elnökének rendelete, az önálló szabályozó szerv vezetőjének rendelete és az önkormányzati rendelet. Jogszabály továbbá a Honvédelmi Tanács rendkívüli állapot idején és a köztársasági elnök szükségállapot idején kiadott rendelete.  
+(1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet, valamint a hadiállapot vagy a szükségállapot kihirdetésének Kormány általi kezdeményezését követően és a különleges jogrendben alkotott jogszabályok kihirdetésének szabályait.  
+(2) Jogszabály a törvény, a kormányrendelet, a miniszterelnöki rendelet, a miniszteri rendelet, a Magyar Nemzeti Bank elnökének rendelete, az önálló szabályozó szerv vezetőjének rendelete és az önkormányzati rendelet.  
 (3) Jogszabály nem lehet ellentétes az Alaptörvénnyel.  
 (4) A sarkalatos törvény olyan törvény, amelynek elfogadásához és módosításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
 
@@ -286,7 +286,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 > *XVI. cikk*  
 
-(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz.  
+(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz. Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.  
 (2) A szülőknek joguk van megválasztani a gyermeküknek adandó nevelést.  
 (3) A szülők kötelesek kiskorú gyermekükről gondoskodni. E kötelezettség magában foglalja gyermekük taníttatását.  
 (4) A nagykorú gyermekek kötelesek rászoruló szüleikről gondoskodni.  
@@ -381,8 +381,8 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 (1) Minden magyar állampolgár köteles a haza védelmére.  
 (2) Magyarország önkéntes honvédelmi tartalékos rendszert tart fenn.  
-(3) Rendkívüli állapot idején vagy ha arról megelőző védelmi helyzetben az Országgyűlés határoz, a magyarországi lakóhellyel rendelkező, nagykorú, magyar állampolgárságú férfiak katonai szolgálatot teljesítenek. Ha a hadkötelezett lelkiismereti meggyőződésével a fegyveres szolgálat teljesítése összeegyeztethetetlen, fegyver nélküli szolgálatot teljesít. A katonai szolgálat teljesítésének formáit és részletes szabályait sarkalatos törvény határozza meg.  
-(4) Magyarországi lakóhellyel rendelkező, nagykorú magyar állampolgárok számára rendkívüli állapot idejére – sarkalatos törvényben meghatározottak szerint – honvédelmi munkakötelezettség írható elő.  
+(3) Hadiállapot idején a magyarországi lakóhellyel rendelkező, nagykorú, magyar állampolgárságú férfiak katonai szolgálatot teljesítenek. Ha a hadkötelezett lelkiismereti meggyőződésével a fegyveres szolgálat teljesítése összeegyeztethetetlen, fegyver nélküli szolgálatot teljesít. A katonai szolgálat teljesítésének formáit és részletes szabályait sarkalatos törvény határozza meg.
+(4) Magyarországi lakóhellyel rendelkező, nagykorú magyar állampolgárok számára hadiállapot idejére – sarkalatos törvényben meghatározottak szerint – honvédelmi munkakötelezettség írható elő.  
 (5) Magyarországi lakóhellyel rendelkező, nagykorú magyar állampolgárok számára honvédelmi és katasztrófavédelmi feladatok ellátása érdekében – sarkalatos törvényben meghatározottak szerint – polgári védelmi kötelezettség írható elő.  
 (6) Honvédelmi és katasztrófavédelmi feladatok ellátása érdekében – sarkalatos törvényben meghatározottak szerint – mindenki gazdasági és anyagi szolgáltatás teljesítésére kötelezhető.  
 
@@ -402,10 +402,11 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) feloszlatja az alaptörvény-ellenesen működő képviselő-testületet;  
-&nbsp;&nbsp;&nbsp;&nbsp;h) határoz a hadiállapot kinyilvánításáról és a békekötésről;  
+&nbsp;&nbsp;&nbsp;&nbsp;h) határoz a háborús helyzet kinyilvánításáról és a békekötésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;i) különleges jogrendet érintő, valamint katonai műveletekben való részvétellel kapcsolatos döntéseket hoz;  
 &nbsp;&nbsp;&nbsp;&nbsp;j) közkegyelmet gyakorol;  
-&nbsp;&nbsp;&nbsp;&nbsp;k) az Alaptörvényben és törvényben meghatározott további feladat- és hatásköröket gyakorol.  
+&nbsp;&nbsp;&nbsp;&nbsp;k) az Alaptörvényben és törvényben meghatározott további feladat- és hatásköröket gyakorol.
+(3) A háborús helyzet kinyilvánításához, valamint a békekötéshez az országgyűlési képviselők kétharmadának szavazata szükséges.
 
 > *2. cikk*  
 
@@ -483,7 +484,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 &nbsp;&nbsp;&nbsp;&nbsp;e) az Országgyűlés hatáskörébe tartozó személyi és szervezetalakítási kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) az Országgyűlés feloszlásáról;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) képviselő-testület feloszlatásáról;  
-&nbsp;&nbsp;&nbsp;&nbsp;h) hadiállapot kinyilvánításáról, rendkívüli állapot és szükségállapot kihirdetéséről, valamint megelőző védelmi helyzet kihirdetéséről és meghosszabbításáról;  
+&nbsp;&nbsp;&nbsp;&nbsp;h) háborús helyzet kinyilvánításáról, békekötésről, hadiállapot kihirdetéséről és megszüntetéséről, valamint szükségállapot kihirdetéséről, meghosszabbításáról és megszüntetéséről;”  
 &nbsp;&nbsp;&nbsp;&nbsp;i) katonai műveletekben való részvétellel kapcsolatos kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;j) közkegyelem gyakorlásáról.  
 (4) Az országos népszavazás érvényes, ha az összes választópolgár több mint fele érvényesen szavazott, és eredményes, ha az érvényesen szavazó választópolgárok több mint fele a megfogalmazott kérdésre azonos választ adott.  
@@ -826,12 +827,14 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 (2) Az állam kizárólagos tulajdonának és kizárólagos gazdasági tevékenységének körét, valamint a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon elidegenítésének korlátait és feltételeit az (1) bekezdés szerinti célokra tekintettel sarkalatos törvény határozza meg.  
 (3) Nemzeti vagyont csak törvényben meghatározott célból lehet átruházni, törvényben meghatározott kivételekkel az értékarányosság követelményének figyelembevétele mellett.  
 (4) Nemzeti vagyon átruházására vagy hasznosítására vonatkozó szerződés csak olyan szervezettel köthető, amelynek tulajdonosi szerkezete, felépítése, valamint az átruházott vagy hasznosításra átengedett nemzeti vagyon kezelésére vonatkozó tevékenysége átlátható.  
-(5) Az állam és a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek törvényben meghatározott módon, önállóan és felelősen gazdálkodnak a törvényesség, a célszerűség és az eredményesség követelményei szerint.  
+(5) Az állam és a helyi önkormányzatok tulajdonában álló gazdálkodó szervezetek törvényben meghatározott módon, önállóan és felelősen gazdálkodnak a törvényesség, a célszerűség és az eredményesség követelményei szerint.
+(6) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrehozásáról, működéséről, megszüntetéséről, valamint közfeladata ellátásáról sarkalatos törvény rendelkezik.
 
 > *39. cikk*  
 
 (1) A központi költségvetésből csak olyan szervezet részére nyújtható támogatás, vagy teljesíthető szerződés alapján kifizetés, amelynek tulajdonosi szerkezete, felépítése, valamint a támogatás felhasználására irányuló tevékenysége átlátható.  
-(2) A közpénzekkel gazdálkodó minden szervezet köteles a nyilvánosság előtt elszámolni a közpénzekre vonatkozó gazdálkodásával. A közpénzeket és a nemzeti vagyont az átláthatóság és a közélet tisztaságának elve szerint kell kezelni. A közpénzekre és a nemzeti vagyonra vonatkozó adatok közérdekű adatok.  
+(2) A közpénzekkel gazdálkodó minden szervezet köteles a nyilvánosság előtt elszámolni a közpénzekre vonatkozó gazdálkodásával. A közpénzeket és a nemzeti vagyont az átláthatóság és a közélet tisztaságának elve szerint kell kezelni. A közpénzekre és a nemzeti vagyonra vonatkozó adatok közérdekű adatok.
+(3) Közpénz az állam bevétele, kiadása és követelése.
 
 > *40. cikk*  
 
@@ -869,8 +872,8 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 > *45. cikk*  
 
 (1) Magyarország fegyveres ereje a Magyar Honvédség. A Magyar Honvédség alapvető feladata Magyarország függetlenségének, területi épségének és határainak katonai védelme, nemzetközi szerződésből eredő közös védelmi és békefenntartó feladatok ellátása, valamint a nemzetközi jog szabályaival összhangban humanitárius tevékenység végzése.  
-(2) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alaptörvényben és sarkalatos törvényben meghatározott keretek között az Országgyűlés, a köztársasági elnök, a Honvédelmi Tanács, a Kormány, valamint a feladat- és hatáskörrel rendelkező miniszter jogosult. A Magyar Honvédség működését a Kormány irányítja.  
-(3) A Magyar Honvédség közreműködik a katasztrófák megelőzésében, következményeik elhárításában és felszámolásában.  
+(2) A Magyar Honvédség irányítására – ha nemzetközi szerződés másként nem rendelkezik – az Alaptörvényben és sarkalatos törvényben meghatározott keretek között az Országgyűlés, a köztársasági elnök, a Kormány, valamint a feladat- és hatáskörrel rendelkező miniszter jogosult.  
+(3) A Magyar Honvédség működését a Kormány irányítja.  
 (4) A Magyar Honvédség hivatásos állományú tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
 (5) A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokat sarkalatos törvény határozza meg.  
 
@@ -893,7 +896,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 (1) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők határátlépéssel járó csapatmozgásairól.  
 (2) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt – a (3) bekezdésben meghatározott esetek kivételével – a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, külföldi állomásozásáról, valamint a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról, magyarországi állomásozásáról.  
-(3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió vagy az Észak-atlanti Szerződés Szervezete döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.  
+(3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió, az Észak-atlanti Szerződés Szervezete vagy az Országgyűlés által törvényben megerősített nemzetközi védelmi és biztonsági együttműködési szervezet döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.  
 (4) A Kormány – a köztársasági elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a (3) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről.  
 
 
@@ -902,98 +905,89 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 > *48. cikk*  
 
-(1) Az Országgyűlés  
-&nbsp;&nbsp;&nbsp;&nbsp;a) hadiállapot kinyilvánítása vagy idegen hatalom fegyveres támadásának közvetlen veszélye (háborús veszély) esetén kihirdeti a rendkívüli állapotot, és Honvédelmi Tanácsot hoz létre;  
-&nbsp;&nbsp;&nbsp;&nbsp;b) a törvényes rend megdöntésére vagy a hatalom kizárólagos megszerzésére irányuló fegyveres cselekmények, továbbá az élet- és vagyonbiztonságot tömeges méretekben veszélyeztető, fegyveresen vagy felfegyverkezve elkövetett súlyos, erőszakos cselekmények esetén szükségállapotot hirdet ki.  
-(2) A hadiállapot kinyilvánításához, a békekötéshez, valamint az (1) bekezdés szerinti különleges jogrend kihirdetéséhez az országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) A köztársasági elnök jogosult a hadiállapot kinyilvánítására, a rendkívüli állapot kihirdetésére és a Honvédelmi Tanács létrehozására, valamint a szükségállapot kihirdetésére, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.  
-(4) Az Országgyűlés e döntések meghozatalában akkor van akadályoztatva, ha nem ülésezik, és összehívása az idő rövidsége, továbbá a hadiállapotot, a rendkívüli állapotot vagy a szükségállapotot kiváltó események miatt elháríthatatlan akadályba ütközik.  
-(5) Az akadályoztatás tényét, továbbá a hadiállapot kinyilvánításának, a rendkívüli állapot vagy a szükségállapot kihirdetésének indokoltságát az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg.  
-(6) Az Országgyűlés a hadiállapot kinyilvánításának, a rendkívüli állapot vagy a szükségállapot kihirdetésének indokoltságát az akadályoztatásának megszűnése utáni első ülésén felülvizsgálja, és dönt az alkalmazott intézkedések jogszerűségéről. E döntéshez az országgyűlési képviselők kétharmadának szavazata szükséges.  
-(7) Rendkívüli állapot vagy szükségállapot idején az Országgyűlés nem mondhatja ki feloszlását, és nem oszlatható fel. Az országgyűlési képviselők általános választását rendkívüli állapot és szükségállapot idején nem lehet kitűzni, és nem lehet megtartani, ilyen esetben a rendkívüli állapot vagy a szükségállapot megszűnésétől számított kilencven napon belül új Országgyűlést kell választani. Ha az országgyűlési képviselők általános választását már megtartották, de az új Országgyűlés még nem alakult meg, a köztársasági elnök az alakuló ülést a rendkívüli állapot vagy a szükségállapot megszűnésétől számított harminc napon belüli időpontra hívja össze.  
-(8) A feloszlott vagy feloszlatott Országgyűlést rendkívüli állapot idején a Honvédelmi Tanács, szükségállapot idején a köztársasági elnök is összehívhatja.  
+Különleges jogrend a hadiállapot, a szükségállapot és a veszélyhelyzet.
 
 
-**A rendkívüli állapot**  
+**A hadiállapot**  
 
-> *49. cikk*  
+> *49. cikk*
 
-(1) A Honvédelmi Tanács elnöke a köztársasági elnök, tagjai az Országgyűlés elnöke, az országgyűlési képviselőcsoportok vezetői, a miniszterelnök, a miniszterek és – tanácskozási joggal – a Honvéd Vezérkar főnöke.  
-(2) A Honvédelmi Tanács gyakorolja  
-&nbsp;&nbsp;&nbsp;&nbsp;a) az Országgyűlés által rá átruházott jogokat;  
-&nbsp;&nbsp;&nbsp;&nbsp;b) a köztársasági elnök jogait;  
-&nbsp;&nbsp;&nbsp;&nbsp;c) a Kormány jogait.  
-(3) A Honvédelmi Tanács dönt  
-&nbsp;&nbsp;&nbsp;&nbsp;a) a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, békefenntartásban való részvételéről, külföldi hadműveleti területen végzett humanitárius tevékenységéről, valamint külföldi állomásozásáról;  
-&nbsp;&nbsp;&nbsp;&nbsp;b) a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról, valamint magyarországi állomásozásáról;  
-&nbsp;&nbsp;&nbsp;&nbsp;c) sarkalatos törvényben meghatározott rendkívüli intézkedések bevezetéséről.  
-(4) A Honvédelmi Tanács rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(5) A Honvédelmi Tanács rendelete a rendkívüli állapot megszűnésével hatályát veszti, kivéve, ha az Országgyűlés a rendelet hatályát meghosszabbítja.  
+(1) Az Országgyűlés
+&nbsp;&nbsp;&nbsp;&nbsp;a) háborús helyzet kinyilvánítása vagy háborús veszély,
+&nbsp;&nbsp;&nbsp;&nbsp;b) külső fegyveres támadás, hatásában külső fegyveres támadással egyenértékű cselekmény, valamint ezek közvetlen veszélye, vagy
+&nbsp;&nbsp;&nbsp;&nbsp;c) kollektív védelemre irányuló szövetségesi kötelezettség teljesítése
+esetén hadiállapotot hirdethet ki.
+(2) A hadiállapot kihirdetéséhez az országgyűlési képviselők kétharmadának szavazata szükséges.
+(3) Hadiállapot idején a Kormány gyakorolja az Országgyűlés által átruházott jogokat, valamint dönt a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, békefenntartásban való részvételéről, külföldi hadműveleti területen végzett humanitárius tevékenységéről, külföldi állomásozásáról, valamint a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról és magyarországi állomásozásáról.
 
 
-**A szükségállapot**  
+**A szükségállapot**  
 
-> *50. cikk*  
+> *50. cikk*
 
-(1) A Magyar Honvédséget szükségállapot idején akkor lehet felhasználni, ha a rendőrség és a nemzetbiztonsági szolgálatok alkalmazása nem elegendő.  
-(2) A szükségállapot idején az Országgyűlés akadályoztatása esetén a köztársasági elnök dönt a Magyar Honvédség (1) bekezdés szerinti felhasználásáról.  
-(3) Szükségállapot idején a sarkalatos törvényben meghatározott rendkívüli intézkedéseket rendeleti úton a köztársasági elnök vezeti be. A köztársasági elnök rendeletével – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(4) A köztársasági elnök a bevezetett rendkívüli intézkedésekről haladéktalanul tájékoztatja az Országgyűlés elnökét. A szükségállapot idején az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – folyamatosan ülésezik. Az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – a köztársasági elnök által bevezetett rendkívüli intézkedések alkalmazását felfüggesztheti.  
-(5) A rendeleti úton bevezetett rendkívüli intézkedések harminc napig maradnak hatályban, kivéve, ha hatályukat az Országgyűlés – akadályoztatása esetén az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága – meghosszabbítja.  
-(6) A köztársasági elnök rendelete a szükségállapot megszűnésével hatályát veszti.  
-
-
-**A megelőző védelmi helyzet**  
-
-> *51. cikk*  
-
-(1) Az Országgyűlés külső fegyveres támadás veszélye esetén vagy szövetségi kötelezettség teljesítése érdekében meghatározott időre kihirdeti a megelőző védelmi helyzetet, ezzel egyidejűleg felhatalmazza a Kormányt sarkalatos törvényben meghatározott rendkívüli intézkedések bevezetésére. A megelőző védelmi helyzet időtartama meghosszabbítható.  
-(2) Az (1) bekezdés szerinti különleges jogrend kihirdetéséhez, meghosszabbításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) A Kormány rendeletben a megelőző védelmi helyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség és a rendvédelmi szervek működését érintő törvényektől eltérő intézkedéseket vezethet be, amelyekről a köztársasági elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés megelőző védelmi helyzet kihirdetésére vonatkozó döntéséig, de legfeljebb hatvan napig tart.  
-(4) A Kormány a megelőző védelmi helyzet idején rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(5) A Kormány rendelete a megelőző védelmi helyzet megszűnésével hatályát veszti.  
-
-
-**Terrorveszélyhelyzet**
-
-> *51/A. cikk*  
-
-(1) Az Országgyűlés a Kormány kezdeményezésére terrortámadás jelentős és közvetlen veszélye vagy terrortámadás esetén meghatározott időre kihirdeti a terrorveszélyhelyzetet, ezzel egyidejűleg felhatalmazza a Kormányt sarkalatos törvényben meghatározott rendkívüli intézkedések bevezetésére. A terrorveszélyhelyzet időtartama meghosszabbítható.
-(2) Az (1) bekezdés szerinti különleges jogrend kihirdetéséhez, meghosszabbításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
-(3) A Kormány rendeletben a terrorveszélyhelyzet kihirdetésének kezdeményezését követően a közigazgatás, a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálatok szervezetét, működését és tevékenysége ellátását érintő törvényektől eltérő, valamint sarkalatos törvényben meghatározott intézkedéseket vezethet be, amelyekről a köztársasági elnököt és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságait folyamatosan tájékoztatja. Az így bevezetett intézkedések hatálya az Országgyűlés terrorveszélyhelyzet kihirdetésére vonatkozó döntéséig, de legfeljebb tizenöt napig tart.  
-(4) A Kormány a terrorveszélyhelyzet idején rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(5) A Magyar Honvédséget a (3) bekezdés szerinti intézkedések hatályossága és a terrorveszélyhelyzet idején akkor lehet felhasználni, ha a rendőrség és a nemzetbiztonsági szolgálatok alkalmazása nem elegendő.  
-(6) A Kormány rendelete a terrorveszélyhelyzet megszűnésével hatályát veszti.  
-
-
-**A váratlan támadás**  
-
-> *52. cikk*  
-
-(1) A Kormány külső fegyveres csoportoknak Magyarország területére történő váratlan betörése esetén a támadás elhárítására, Magyarország területének a honi és szövetséges légvédelmi és repülő készültségi erőkkel való oltalmazására, a törvényes rend, az élet- és vagyonbiztonság, a közrend és a közbiztonság védelme érdekében – szükség esetén a köztársasági elnök által jóváhagyott fegyveres védelmi terv szerint – a szükségállapot vagy a rendkívüli állapot kihirdetésére vonatkozó döntésig a támadással arányos és arra felkészített erőkkel azonnal intézkedni köteles.  
-(2) A Kormány az (1) bekezdés alapján megtett intézkedéséről haladéktalanul tájékoztatja az Országgyűlést és a köztársasági elnököt.  
-(3) A Kormány váratlan támadás esetén sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be, valamint rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(4) A Kormány rendelete a váratlan támadás megszűnésével hatályát veszti.  
+(1) Az Országgyűlés
+&nbsp;&nbsp;&nbsp;&nbsp;a) az alkotmányos rend megdöntésére, felforgatására vagy a hatalom kizárólagos megszerzésére irányuló cselekmény, vagy
+&nbsp;&nbsp;&nbsp;&nbsp;b) az élet- és vagyonbiztonságot tömeges mértékben veszélyeztető súlyos, jogellenes cselekmény
+esetén szükségállapotot hirdethet ki.
+(2) A szükségállapot kihirdetéséhez az országgyűlési képviselők kétharmadának szavazata szükséges.
+(3) A szükségállapot harminc napra hirdethető ki. A szükségállapotot az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával harminc nappal meghosszabbíthatja, ha a szükségállapot kihirdetésére okot adó körülmény továbbra is fennáll.
 
 
 **A veszélyhelyzet**  
 
-> *53. cikk*  
+> *51. cikk*
 
-(1) A Kormány az élet- és vagyonbiztonságot veszélyeztető elemi csapás vagy ipari szerencsétlenség esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdet ki, és sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be.  
-(2) A Kormány a veszélyhelyzetben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.  
-(3) A Kormány (2) bekezdés szerinti rendelete tizenöt napig marad hatályban, kivéve, ha a Kormány – az Országgyűlés felhatalmazása alapján – a rendelet hatályát meghosszabbítja.  
-(4) A Kormány rendelete a veszélyhelyzet megszűnésével hatályát veszti.  
+(1) A Kormány az élet- és vagyonbiztonságot veszélyeztető súlyos esemény – különösen elemi csapás vagy ipari szerencsétlenség – esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdethet ki, és sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be.
+(2) A veszélyhelyzet harminc napra hirdethető ki.
+(3) A Kormány a veszélyhelyzetet az Országgyűlés felhatalmazása alapján meghosszabbíthatja, ha a veszélyhelyzet kihirdetésére okot adó körülmény továbbra is fennáll.
+(4) A (3) bekezdés szerinti felhatalmazásról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt.
 
 
-**A különleges jogrendre vonatkozó közös szabályok**  
+**A különleges jogrendre vonatkozó közös szabályok**  
 
-> *54. cikk*  
+> *52. cikk*
 
-(1) Különleges jogrendben az alapvető jogok gyakorlása – a II. és a III. cikkben, valamint a XXVIII. cikk (2)–(6) bekezdésében megállapított alapvető jogok kivételével – felfüggeszthető vagy az I. cikk (3) bekezdése szerinti mértéken túl korlátozható.  
-(2) Különleges jogrendben az Alaptörvény alkalmazása nem függeszthető fel, az Alkotmánybíróság működése nem korlátozható.  
-(3) A különleges jogrendet a különleges jogrend bevezetésére jogosult szerv megszünteti, ha kihirdetésének feltételei már nem állnak fenn.  
-(4) A különleges jogrendben alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.  
+(1) Különleges jogrendben az Alaptörvény alkalmazása nem függeszthető fel.
+(2) Különleges jogrendben az alapvető jogok gyakorlása – a II. és a III. cikkben, valamint a XXVIII. cikk (2)–(6) bekezdésében megállapított alapvető jogok kivételével – felfüggeszthető vagy az I. cikk (3) bekezdése szerinti mértéken túl korlátozható.
+(3) A Kormány különleges jogrend idején köteles minden olyan intézkedést megtenni, amely az Országgyűlés folyamatos működését szavatolja.
+(4) Különleges jogrend idején az Alkotmánybíróság működése nem korlátozható. A Kormány különleges jogrendben köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
+(5) A különleges jogrendben alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+
+> *53. cikk*
+
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(2) A Kormány a különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+(3) Az Országgyűlés a Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+(4) A különleges jogrendet a különleges jogrend kihirdetésére jogosult szerv megszünteti, ha kihirdetésének feltételei már nem állnak fenn.
+(5) A Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendelet a különleges jogrend megszűnésekor hatályát veszti.
+
+
+**A hadiállapotra és a szükségállapotra vonatkozó közös szabályok**  
+
+> *54. cikk*
+
+(1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(2) A Kormány az (1) bekezdés szerinti rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+(3) Az (1) bekezdés szerinti rendelet hatálya a hadiállapot vagy a szükségállapot kihirdetésére vonatkozó döntésig, de legfeljebb a kihirdetés Kormány általi kezdeményezésétől számított hatvan napig, hadiállapot vagy szükségállapot kihirdetése esetén legfeljebb a hadiállapot vagy a szükségállapot megszűnéséig tart.
+(4) Ha a hadiállapot vagy a szükségállapot kihirdetésére nem kerül sor, akkor az (1) bekezdés szerint rendeletben hozott intézkedések joghatásainak rendezését az Országgyűlés törvényben szabályozza.
+(5) A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Országgyűlés folyamatos működését szavatolja.
+(6) Az Országgyűlés az (1) bekezdés szerinti rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+(7) Hadiállapot vagy szükségállapot Kormány általi kezdeményezését követően az Alkotmánybíróság működése nem korlátozható. A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
+(8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+
+> *55. cikk*
+
+(1) Hadiállapot vagy szükségállapot idején az Országgyűlés nem mondhatja ki feloszlását, és nem oszlatható fel. Az országgyűlési képviselők általános választását hadiállapot és szükségállapot idején nem lehet kitűzni és nem lehet megtartani, ilyen esetben a hadiállapot vagy a szükségállapot megszűnésétől számított kilencven napon belül új Országgyűlést kell választani. Ha az országgyűlési képviselők általános választását már megtartották, de az új Országgyűlés még nem alakult meg, a köztársasági elnök az alakuló ülést a hadiállapot vagy a szükségállapot megszűnésétől számított harminc napon belüli időpontra hívja össze.
+(2) A feloszlott vagy feloszlatott Országgyűlést hadiállapot vagy szükségállapot idején a köztársasági elnök összehívhatja.
+
+
+**Az Országgyűlésre és a köztársasági elnökre vonatkozó sajátos különleges jogrendi szabályok**  
+
+> *56. cikk*
+
+(1) A köztársasági elnök jogosult a háborús helyzet kinyilvánítására, a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
+(2) Az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg az Országgyűlés akadályoztatása tényét, ha az Országgyűlés nem ülésezik, és összehívása az idő rövidsége, továbbá a különleges jogrendet kihirdetésére okot adó körülmény miatt elháríthatatlan akadályba ütközik.
+(3) Az Országgyűlés a köztársasági elnök (1) bekezdés szerinti döntésének indokoltságát az akadályoztatásának megszűnése utáni első ülésén felülvizsgálja, és az akadályoztatásának hiányában alkalmazandó szabályok szerint dönt a különleges jogrendben alkalmazott intézkedések jogszerűségéről.
 
 
 **ZÁRÓ ÉS VEGYES RENDELKEZÉSEK**  
