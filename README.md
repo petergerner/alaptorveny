@@ -69,7 +69,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 > *F) cikk*  
 
 (1) Magyarország fővárosa Budapest.  
-(2) Magyarország területe fővárosra, megyékre, városokra és községekre tagozódik. A fővárosban és a városokban kerületek alakíthatók.  
+(2) Magyarország területe fővárosra, vármegyékre, városokra és községekre tagozódik. A fővárosban és a városokban kerületek alakíthatók.  
 
 > *G) cikk*  
 
@@ -598,7 +598,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 (1) A minisztériumok felsorolásáról törvény rendelkezik.  
 (2) Tárca nélküli miniszter a Kormány által meghatározott feladatkör ellátására nevezhető ki.  
-(3) A Kormány általános hatáskörű területi államigazgatási szerve a fővárosi és megyei kormányhivatal.  
+(3) A Kormány általános hatáskörű területi államigazgatási szerve a fővárosi és vármegyei kormányhivatal.  
 (4) Sarkalatos törvény minisztérium, miniszter vagy közigazgatási szerv megjelölésére vonatkozó rendelkezését törvény módosíthatja.  
 (5) A kormánytisztviselők jogállását törvény szabályozza.  
 
@@ -772,28 +772,28 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 &nbsp;&nbsp;&nbsp;&nbsp;l) törvényben meghatározott további feladat- és hatásköröket gyakorol.  
 (2) Feladatkörében eljárva a helyi önkormányzat törvény által nem szabályozott helyi társadalmi viszonyok rendezésére, illetve törvényben kapott felhatalmazás alapján önkormányzati rendeletet alkot.  
 (3) Az önkormányzati rendelet más jogszabállyal nem lehet ellentétes.  
-(4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és megyei kormányhivatalnak. Ha a fővárosi és megyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.  
-(5) A fővárosi és megyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és a megyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és a megyei kormányhivatal vezetője alkossa meg.  
+(4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és vármegyei kormányhivatalnak. Ha a fővárosi és vármegyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.  
+(5) A fővárosi és vármegyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és a vármegyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és a vármegyei kormányhivatal vezetője alkossa meg.  
 (6) A helyi önkormányzatok tulajdona köztulajdon, amely feladataik ellátását szolgálja.  
 
 > *33. cikk*  
 
 (1) A helyi önkormányzat feladat- és hatásköreit a képviselő-testület gyakorolja.  
-(2) A helyi képviselő-testületet a polgármester vezeti. A megyei képviselő-testület elnökét a megyei képviselő-testület saját tagjai közül választja megbízatásának időtartamára.  
+(2) A helyi képviselő-testületet a polgármester vezeti. A vármegyei képviselő-testület elnökét a vármegyei képviselő-testület saját tagjai közül választja megbízatásának időtartamára.  
 (3) A képviselő-testület sarkalatos törvényben meghatározottak szerint bizottságot választhat, és hivatalt hozhat létre.  
 
 > *34. cikk*  
 
 (1) A helyi önkormányzat és az állami szervek a közösségi célok elérése érdekében együttműködnek. A helyi önkormányzat részére kötelező feladat- és hatáskört törvény állapíthat meg. A helyi önkormányzat kötelező feladat-és hatásköreinek ellátásához azokkal arányban álló költségvetési, illetve más vagyoni támogatásra jogosult.  
 (2) Törvény elrendelheti a helyi önkormányzat kötelező feladatának társulásban történő ellátását.  
-(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a megyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.  
-(4) A Kormány a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.  
+(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a vármegyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.  
+(4) A Kormány a fővárosi és vármegyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.  
 (5) Törvény a költségvetési egyensúly megőrzése érdekében a helyi önkormányzat törvényben meghatározott mértékű kölcsönfelvételét vagy más kötelezettségvállalását feltételhez, illetve a Kormány hozzájárulásához kötheti.  
 
 > *35. cikk*  
 
 (1) A helyi önkormányzati képviselőket és polgármestereket a választópolgárok általános és egyenlő választójog alapján, közvetlen és titkos szavazással, a választók akaratának szabad kifejezését biztosító választáson, sarkalatos törvényben meghatározott módon választják.  
-(2) A helyi önkormányzati képviselők és polgármesterek általános választását a helyi önkormányzati képviselők és polgármesterek előző általános választását követő ötödik év október hónapjában kell megtartani.  
+(2) A helyi önkormányzati képviselők és polgármesterek általános választását a helyi önkormányzati képviselők és polgármesterek előző általános választását követő ötödik év április, május, június vagy július hónapjában, az európai parlamenti képviselők választásával egyidejűleg kell megtartani.  
 (3) A képviselő-testület megbízatása a helyi önkormányzati képviselők és polgármesterek általános választásának napjáig tart. Jelöltek hiányában elmaradt választás esetén a képviselő-testület megbízatása meghosszabbodik az időközi választás napjáig. A polgármester megbízatása az új polgármester megválasztásáig tart.  
 (4) A képviselő-testület – sarkalatos törvényben meghatározottak szerint – kimondhatja feloszlását.  
 (5) Az Országgyűlés a Kormány – az Alkotmánybíróság véleményének kikérését követően előterjesztett – indítványára feloszlatja az alaptörvény-ellenesen működő képviselő-testületet.  
@@ -937,7 +937,7 @@ esetén szükségállapotot hirdethet ki.
 
 > *51. cikk*
 
-(1) A Kormány az élet- és vagyonbiztonságot veszélyeztető súlyos esemény – különösen elemi csapás vagy ipari szerencsétlenség – esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdethet ki, és sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be.
+(1) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa, továbbá az élet- és vagyonbiztonságot veszélyeztető súlyos esemény – különösen elemi csapás vagy ipari szerencsétlenség – esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdethet ki, és sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be.
 (2) A veszélyhelyzet harminc napra hirdethető ki.
 (3) A Kormány a veszélyhelyzetet az Országgyűlés felhatalmazása alapján meghosszabbíthatja, ha a veszélyhelyzet kihirdetésére okot adó körülmény továbbra is fennáll.
 (4) A (3) bekezdés szerinti felhatalmazásról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt.
@@ -1058,6 +1058,8 @@ vonatkozó rendelkezéseit alkalmazni kell.
 &nbsp;&nbsp;&nbsp;&nbsp;n) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvénynek az Alaptörvénnyel összefüggő egyes átmeneti rendelkezések megalkotása érdekében szükséges módosításáról szóló 2011. évi LXI. törvény,  
 &nbsp;&nbsp;&nbsp;&nbsp;o) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CXLVI. törvény, és  
 &nbsp;&nbsp;&nbsp;&nbsp;p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.  
+27. A Magyarország Alaptörvényének tizenegyedik módosításával megállapított 35. cikk (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választására is alkalmazni kell azzal, hogy a 35. cikk (3) bekezdésétől eltérően a hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.  
+28. A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
 
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.  
